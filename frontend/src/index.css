@@ -1,0 +1,111 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Theme-aware root styles */
+html {
+  color-scheme: light dark;
+
+  /* Toast notification variables - Light mode */
+  --toast-bg: #ffffff;
+  --toast-color: #1f2937;
+  --toast-border: #e5e7eb;
+}
+
+html.dark {
+  /* Toast notification variables - Dark mode */
+  --toast-bg: #1e293b;
+  --toast-color: #f1f5f9;
+  --toast-border: #334155;
+}
+
+/* Light mode defaults */
+html,
+body {
+  @apply bg-white text-gray-900;
+}
+
+/* Dark mode overrides */
+html.dark,
+html.dark body {
+  @apply bg-slate-950 text-gray-100;
+}
+
+/* Improved font visibility */
+body {
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  font-weight: 400;
+}
+
+/* Enhanced text contrast */
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  @apply text-gray-900 dark:text-white font-bold;
+  letter-spacing: -0.02em;
+}
+
+p,
+span,
+div {
+  @apply text-gray-800 dark:text-gray-200;
+}
+
+/* Improved label visibility */
+label {
+  @apply text-gray-700 dark:text-gray-200 font-medium;
+}
+
+/* Better input visibility */
+input,
+textarea,
+select {
+  @apply text-gray-900 dark:text-white;
+}
+
+input::placeholder,
+textarea::placeholder {
+  @apply text-gray-400 dark:text-gray-500;
+}
+
+/* Custom scrollbar for both themes */
+::-webkit-scrollbar {
+  width: 12px;
+  background-color: #f1f5f9;
+}
+
+html.dark ::-webkit-scrollbar {
+  background-color: #0f172a;
+}
+
+::-webkit-scrollbar-thumb {
+  background: linear-gradient(to bottom, #06b6d4, #3b82f6);
+  border-radius: 6px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: linear-gradient(to bottom, #22d3ee, #60a5fa);
+}
+
+/* Glow effects for headings */
+.glow-text {
+  text-shadow: 0 0 20px rgba(6, 182, 212, 0.5);
+}
+
+/* Selection color */
+::selection {
+  background-color: rgba(6, 182, 212, 0.3);
+  color: #000;
+}
+
+html.dark ::selection {
+  background-color: rgba(6, 182, 212, 0.3);
+  color: #fff;
+}

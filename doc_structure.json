@@ -1,0 +1,5842 @@
+[
+  {
+    "index": 0,
+    "text": "EXPOSING FABRICATED REALITIES: A COMPREHENSIVE STRATEGY FOR DEEPFAKE DETECTION",
+    "style": "Normal"
+  },
+  {
+    "index": 1,
+    "text": "A PROJECT REPORT",
+    "style": "Heading 2"
+  },
+  {
+    "index": 2,
+    "text": "",
+    "style": "Body Text"
+  },
+  {
+    "index": 3,
+    "text": "",
+    "style": "Body Text"
+  },
+  {
+    "index": 4,
+    "text": "Submitted by",
+    "style": "Normal"
+  },
+  {
+    "index": 5,
+    "text": "",
+    "style": "Body Text"
+  },
+  {
+    "index": 6,
+    "text": "NAVIN M (711721243064) SUJITH C M (711721243112) VISHAL S K (711721243126)",
+    "style": "Heading 1"
+  },
+  {
+    "index": 7,
+    "text": "YUVAN VELKUMAR S (711721243127)",
+    "style": "Normal"
+  },
+  {
+    "index": 8,
+    "text": "",
+    "style": "Body Text"
+  },
+  {
+    "index": 9,
+    "text": "in partial fulfillment for the award of the degree of",
+    "style": "Normal"
+  },
+  {
+    "index": 10,
+    "text": "BACHELOR OF TECHNOLOGY",
+    "style": "Heading 1"
+  },
+  {
+    "index": 11,
+    "text": "in",
+    "style": "Normal"
+  },
+  {
+    "index": 12,
+    "text": "",
+    "style": "Body Text"
+  },
+  {
+    "index": 13,
+    "text": "ARTIFICIAL INTELLIGENCE AND DATA SCIENCE",
+    "style": "Normal"
+  },
+  {
+    "index": 14,
+    "text": "",
+    "style": "Body Text"
+  },
+  {
+    "index": 15,
+    "text": "",
+    "style": "Body Text"
+  },
+  {
+    "index": 16,
+    "text": "",
+    "style": "Body Text"
+  },
+  {
+    "index": 17,
+    "text": "KGiSL INSTITUTE OF TECHNOLOGY ANNA UNIVERSITY: CHENNAI 600 025",
+    "style": "Heading 1"
+  },
+  {
+    "index": 18,
+    "text": "APRIL 2025",
+    "style": "Heading 2"
+  },
+  {
+    "index": 19,
+    "text": "",
+    "style": "Heading 2"
+  },
+  {
+    "index": 20,
+    "text": "",
+    "style": "Body Text"
+  },
+  {
+    "index": 21,
+    "text": "KGiSL INSTITUTE OF TECHNOLOGY",
+    "style": "Normal"
+  },
+  {
+    "index": 22,
+    "text": "",
+    "style": "Body Text"
+  },
+  {
+    "index": 23,
+    "text": "BONAFIDE CERTIFICATE",
+    "style": "Heading 1"
+  },
+  {
+    "index": 24,
+    "text": "",
+    "style": "Body Text"
+  },
+  {
+    "index": 25,
+    "text": "Certified that this project report “EXPOSING FABRICATED REALITIES: A COMPREHENSIVE STRATEGY FOR DEEPFAKE DETECTION” is the bonafide work of “NAVIN M, SUJITH C M, VISHAL S K, YUVAN VELKUMAR",
+    "style": "Normal"
+  },
+  {
+    "index": 26,
+    "text": "S” who carried out the project work under my supervision.",
+    "style": "Body Text"
+  },
+  {
+    "index": 27,
+    "text": "",
+    "style": "Body Text"
+  },
+  {
+    "index": 28,
+    "text": "",
+    "style": "Body Text"
+  },
+  {
+    "index": 29,
+    "text": "",
+    "style": "Body Text"
+  },
+  {
+    "index": 30,
+    "text": "",
+    "style": "Body Text"
+  },
+  {
+    "index": 31,
+    "text": "",
+    "style": "Body Text"
+  },
+  {
+    "index": 32,
+    "text": "SIGNATURE\tSIGNATURE",
+    "style": "Normal"
+  },
+  {
+    "index": 33,
+    "text": "",
+    "style": "Body Text"
+  },
+  {
+    "index": 34,
+    "text": "Mr. Mohanraj S\tMs. Akilandeeswari M",
+    "style": "Normal"
+  },
+  {
+    "index": 35,
+    "text": "HEAD OF THE DEPARTMENT\tSUPERVISOR",
+    "style": "Normal"
+  },
+  {
+    "index": 36,
+    "text": "Assistant Professor",
+    "style": "Normal"
+  },
+  {
+    "index": 37,
+    "text": "Department of Artificial Intelligence\tDepartment of Artificial Intelligence",
+    "style": "Normal"
+  },
+  {
+    "index": 38,
+    "text": "and Data Science\tand Data Science",
+    "style": "Normal"
+  },
+  {
+    "index": 39,
+    "text": "KGiSL Institute of Technology\tKGiSL Institute of Technology",
+    "style": "Normal"
+  },
+  {
+    "index": 40,
+    "text": "Coimbatore- 641035\tCoimbatore- 641035",
+    "style": "Normal"
+  },
+  {
+    "index": 41,
+    "text": "",
+    "style": "Body Text"
+  },
+  {
+    "index": 42,
+    "text": "",
+    "style": "Body Text"
+  },
+  {
+    "index": 43,
+    "text": "",
+    "style": "Body Text"
+  },
+  {
+    "index": 44,
+    "text": "",
+    "style": "Body Text"
+  },
+  {
+    "index": 45,
+    "text": "",
+    "style": "Body Text"
+  },
+  {
+    "index": 46,
+    "text": "",
+    "style": "Body Text"
+  },
+  {
+    "index": 47,
+    "text": "",
+    "style": "Body Text"
+  },
+  {
+    "index": 48,
+    "text": "",
+    "style": "Body Text"
+  },
+  {
+    "index": 49,
+    "text": "",
+    "style": "Body Text"
+  },
+  {
+    "index": 50,
+    "text": "",
+    "style": "Body Text"
+  },
+  {
+    "index": 51,
+    "text": "",
+    "style": "Body Text"
+  },
+  {
+    "index": 52,
+    "text": "INTERNAL EXAMINER\tEXTERNAL EXAMINER",
+    "style": "Normal"
+  },
+  {
+    "index": 53,
+    "text": "",
+    "style": "Normal"
+  },
+  {
+    "index": 54,
+    "text": "ACKNOWLEDGEMENT",
+    "style": "Heading 1"
+  },
+  {
+    "index": 55,
+    "text": "",
+    "style": "Body Text"
+  },
+  {
+    "index": 56,
+    "text": "We express our deepest gratitude to our Chairman and Managing Director Dr. Ashok Bakthavachalam for providing us with an environment to complete our project successfully.",
+    "style": "Normal"
+  },
+  {
+    "index": 57,
+    "text": "",
+    "style": "Body Text"
+  },
+  {
+    "index": 58,
+    "text": "We are grateful to our CEO of Academic Initiatives Mr. Aravind Kumar Rajendran and our beloved Director of Academics Dr. Shankar P. Our sincere thanks to honourable Principal Dr. SureshKumar S, Director of Research and Industry Collaboration Dr. Rajkumar N for his support, guidance, and blessings.",
+    "style": "Normal"
+  },
+  {
+    "index": 59,
+    "text": "",
+    "style": "Body Text"
+  },
+  {
+    "index": 60,
+    "text": "We would like to thank Mr. Mohanraj S, (i/c) Head of the Department, Department of Artificial Intelligence and Data Science for her firm support during the entire course of this project work and who modelled us both technically and morally for achieving greater success in this project work.",
+    "style": "Body Text"
+  },
+  {
+    "index": 61,
+    "text": "",
+    "style": "Body Text"
+  },
+  {
+    "index": 62,
+    "text": "We express our sincere thanks to Mr. Mohanraj S, our project coordinator, Assistant Professor, Department of Artificial Intelligence and Data Science, and our guide Ms. Akilandeeswari M, our project supervisor, Assistant Professor, Department of Artificial Intelligence and Data Science for their constant encouragement and support throughout our course, especially for the useful suggestions given during the course of the project period and being instrumental in the completion of our project with their complete guidance.",
+    "style": "Normal"
+  },
+  {
+    "index": 63,
+    "text": "",
+    "style": "Body Text"
+  },
+  {
+    "index": 64,
+    "text": "We also thank all the faculty members of our department for their help in making this project a successful one. Finally, we take this opportunity to extend our deep appreciation to our Family and Friends, for all they meant to us during the crucial times of the completion of our project.",
+    "style": "Body Text"
+  },
+  {
+    "index": 65,
+    "text": "",
+    "style": "Body Text"
+  },
+  {
+    "index": 66,
+    "text": "TABLE OF CONTENTS",
+    "style": "Normal"
+  },
+  {
+    "index": 67,
+    "text": "",
+    "style": "Body Text"
+  },
+  {
+    "index": 68,
+    "text": "",
+    "style": "Body Text"
+  },
+  {
+    "index": 69,
+    "text": "",
+    "style": "Table Paragraph"
+  },
+  {
+    "index": 70,
+    "text": "",
+    "style": "toc 1"
+  },
+  {
+    "index": 71,
+    "text": "ABSTRACT",
+    "style": "Normal"
+  },
+  {
+    "index": 72,
+    "text": "",
+    "style": "Body Text"
+  },
+  {
+    "index": 73,
+    "text": "Deepfake media, which includes fake images, audio, and videos created using artificial intelligence, poses serious risks to digital safety, personal privacy, and public trust. This project presents a smart and effective system designed to detect such fake content by using a combination of machine learning and deep learning techniques. By analyzing different types of data such as facial expressions, voice patterns, and image flaws, the system can accurately identify fake content shared across various platforms.",
+    "style": "Body Text"
+  },
+  {
+    "index": 74,
+    "text": "The system uses multiple AI models working together, known as ensemble learning, to improve detection for audio, image, and video formats. It is trained on a large collection of both real and fake media, allowing it to learn the small details that reveal manipulation. This layered approach makes the system highly accurate in detecting both obvious and subtle deepfakes.",
+    "style": "Body Text"
+  },
+  {
+    "index": 75,
+    "text": "Experiments show that the system performs better than traditional methods, especially when detecting deepfakes used to spread misinformation, steal identities, or influence politics. It also works in real time, which makes it useful for fact-checking, digital investigations, and online safety. Overall, this research shows how AI can help protect digital content and supports the development of stronger tools to fight deepfakes in the future.",
+    "style": "Body Text"
+  },
+  {
+    "index": 76,
+    "text": "",
+    "style": "Body Text"
+  },
+  {
+    "index": 77,
+    "text": "LIST OF TABLES",
+    "style": "Normal"
+  },
+  {
+    "index": 78,
+    "text": "",
+    "style": "Body Text"
+  },
+  {
+    "index": 79,
+    "text": "",
+    "style": "Body Text"
+  },
+  {
+    "index": 80,
+    "text": "",
+    "style": "Table Paragraph"
+  },
+  {
+    "index": 81,
+    "text": "LIST OF FIGURES",
+    "style": "Normal"
+  },
+  {
+    "index": 82,
+    "text": "",
+    "style": "Body Text"
+  },
+  {
+    "index": 83,
+    "text": "",
+    "style": "Body Text"
+  },
+  {
+    "index": 84,
+    "text": "",
+    "style": "Table Paragraph"
+  },
+  {
+    "index": 85,
+    "text": "LIST OF ABBREVIATION",
+    "style": "Normal"
+  },
+  {
+    "index": 86,
+    "text": "",
+    "style": "Body Text"
+  },
+  {
+    "index": 87,
+    "text": "",
+    "style": "Table Paragraph"
+  },
+  {
+    "index": 88,
+    "text": "CHAPTER 1 INTRODUCTION",
+    "style": "Heading 1"
+  },
+  {
+    "index": 89,
+    "text": "OVERVIEW",
+    "style": "Heading 2"
+  },
+  {
+    "index": 90,
+    "text": "",
+    "style": "Body Text"
+  },
+  {
+    "index": 91,
+    "text": "Deepfake technology leverages advanced artificial intelligence to create hyper-realistic yet deceptive audio, video, and image content. By employing deep learning architectures such as autoencoders and generative adversarial networks (GANs), these systems are capable of replicating human-like expressions, voice modulation, and visual features with alarming accuracy. While deepfakes present opportunities in fields such as entertainment, filmmaking, and education, they pose significant threats when misused for malicious purposes including misinformation, identity theft, political manipulation, and corporate fraud.",
+    "style": "Body Text"
+  },
+  {
+    "index": 92,
+    "text": "The widespread accessibility of deepfake tools has accelerated the dissemination of manipulated content across social media and online platforms, blurring the line between authentic and fabricated media. This project, introduces a comprehensive detection system that utilizes ensemble deep learning techniques to analyze and authenticate multimedia content. The system evaluates three critical modalities audio, image, and video to assess potential tampering and enhance the accuracy of deepfake identification.",
+    "style": "Body Text"
+  },
+  {
+    "index": 93,
+    "text": "This project integrates deep learning models to classify content as authentic or manipulated, providing real-time feedback to users through a web-based interface. The system aims to restore trust in digital communication and support efforts to safeguard cybersecurity and information integrity in an era dominated by synthetic media.",
+    "style": "Body Text"
+  },
+  {
+    "index": 94,
+    "text": "",
+    "style": "Body Text"
+  },
+  {
+    "index": 95,
+    "text": "PROBLEM STATEMENT",
+    "style": "Heading 2"
+  },
+  {
+    "index": 96,
+    "text": "",
+    "style": "Body Text"
+  },
+  {
+    "index": 97,
+    "text": "The proliferation of deepfake technology presents several pressing challenges:",
+    "style": "Body Text"
+  },
+  {
+    "index": 98,
+    "text": "",
+    "style": "Body Text"
+  },
+  {
+    "index": 99,
+    "text": "Realism and Undetectability: Deepfakes generated using sophisticated neural networks are often indistinguishable from real content to the human eye and ear.",
+    "style": "List Paragraph"
+  },
+  {
+    "index": 100,
+    "text": "Widespread Misinformation: The ease of sharing manipulated media online contributes to the rapid spread of false narratives, affecting public opinion, democratic processes, and social stability.",
+    "style": "List Paragraph"
+  },
+  {
+    "index": 101,
+    "text": "Digital Identity Threats: Audio and visual impersonation can result in severe breaches of personal privacy, corporate security, and public safety.",
+    "style": "List Paragraph"
+  },
+  {
+    "index": 102,
+    "text": "Lack of Robust Detection Tools: Existing detection mechanisms often lack generalizability and fail to keep up with evolving deepfake generation techniques.",
+    "style": "List Paragraph"
+  },
+  {
+    "index": 103,
+    "text": "To address these issues, we propose a multi-modal detection framework that provides a real-time, accurate, and accessible solution for identifying synthetic media. The system is designed to meet the growing need for content authentication tools that are both scalable and effective across diverse digital environments.",
+    "style": "Body Text"
+  },
+  {
+    "index": 104,
+    "text": "",
+    "style": "Body Text"
+  },
+  {
+    "index": 105,
+    "text": "OBJECTIVE OF THE PROJECT",
+    "style": "Heading 2"
+  },
+  {
+    "index": 106,
+    "text": "",
+    "style": "Body Text"
+  },
+  {
+    "index": 107,
+    "text": "The main objectives of this project include:",
+    "style": "Body Text"
+  },
+  {
+    "index": 108,
+    "text": "To develop a multi-modal deepfake detection system that analyzes audio, video, and image data.",
+    "style": "List Paragraph"
+  },
+  {
+    "index": 109,
+    "text": "To implement deep learning models trained to identify signs of synthetic manipulation across different media formats.",
+    "style": "List Paragraph"
+  },
+  {
+    "index": 110,
+    "text": "To improve detection accuracy and reliability through an ensemble learning approach combining various neural architectures.",
+    "style": "List Paragraph"
+  },
+  {
+    "index": 111,
+    "text": "To deploy the model through a user-friendly web interface that provides real- time detection feedback and confidence scores.",
+    "style": "List Paragraph"
+  },
+  {
+    "index": 112,
+    "text": "To support digital content verification efforts and bolster cybersecurity measures by enabling early identification of deceptive media.",
+    "style": "List Paragraph"
+  },
+  {
+    "index": 113,
+    "text": "",
+    "style": "List Paragraph"
+  },
+  {
+    "index": 114,
+    "text": "SCOPE OF THE STUDY",
+    "style": "Heading 2"
+  },
+  {
+    "index": 115,
+    "text": "",
+    "style": "Body Text"
+  },
+  {
+    "index": 116,
+    "text": "This study is focused on the following areas:",
+    "style": "Body Text"
+  },
+  {
+    "index": 117,
+    "text": "Data Collection and Preprocessing: Compilation and standardization of deepfake and real- world multimedia datasets for model training.",
+    "style": "List Paragraph"
+  },
+  {
+    "index": 118,
+    "text": "Model Development: Implementation and evaluation of deep learning models tailored for audio, image, and video deepfake detection.",
+    "style": "List Paragraph"
+  },
+  {
+    "index": 119,
+    "text": "Ensemble Integration: Combining outputs of multiple models to increase detection robustness and minimize false positives/negatives.",
+    "style": "List Paragraph"
+  },
+  {
+    "index": 120,
+    "text": "Web-based Deployment: Use of React or similar platforms to create an intuitive user interface for real-time content evaluation.",
+    "style": "List Paragraph"
+  },
+  {
+    "index": 121,
+    "text": "Comparative Analysis : Benchmarking performance against existing deepfake detection tools to assess effectiveness and scalability.",
+    "style": "List Paragraph"
+  },
+  {
+    "index": 122,
+    "text": "Although the project’s primary focus is on deepfake identification, its underlying framework may be extended to broader applications in digital forensics, media integrity verification, and cybersecurity policy development. Cybersecurity Professionals and Digital Forensics Experts",
+    "style": "Body Text"
+  },
+  {
+    "index": 123,
+    "text": "",
+    "style": "Body Text"
+  },
+  {
+    "index": 124,
+    "text": "This system provides substantial benefits for individuals and organizations tasked with protecting digital environments:",
+    "style": "Body Text"
+  },
+  {
+    "index": 125,
+    "text": "Enhanced Threat Detection:\tReal-time analysis of multimedia content allows rapid identification of manipulated data.",
+    "style": "List Paragraph"
+  },
+  {
+    "index": 126,
+    "text": "Prevention of Identity Fraud and Data Breaches: Detection of synthetic impersonation helps prevent financial and reputational damages.",
+    "style": "List Paragraph"
+  },
+  {
+    "index": 127,
+    "text": "Scalable Digital Forensics Tool: The system supports scalable investigation workflows by pre- filtering suspect content for further review.",
+    "style": "List Paragraph"
+  },
+  {
+    "index": 128,
+    "text": "",
+    "style": "List Paragraph"
+  },
+  {
+    "index": 129,
+    "text": "ORGANIZATION OF THE REPORT",
+    "style": "Heading 2"
+  },
+  {
+    "index": 130,
+    "text": "",
+    "style": "Body Text"
+  },
+  {
+    "index": 131,
+    "text": "This report is structured as follows:",
+    "style": "Body Text"
+  },
+  {
+    "index": 132,
+    "text": "Chapter 2: Literature Survey – Reviews existing research on media manipulation, deepfake detection techniques, image tampering localization, biometric spoofing, and the use of deep learning in digital forensics.",
+    "style": "List Paragraph"
+  },
+  {
+    "index": 133,
+    "text": "Chapter 3: Proposed Methodology – Describes the system architecture for deepfake detection including data collection, preprocessing methods, and the selection of advanced deep learning models (e.g., Xception, ViT, Video Transformer, Wav2Vec 2.0).",
+    "style": "List Paragraph"
+  },
+  {
+    "index": 134,
+    "text": "Chapter 4: System Architecture – Outlines the backend and frontend technologies (Flask and React), explains how API endpoints, streaming, and detection pipelines are integrated, and presents flowcharts and sequence diagrams.",
+    "style": "List Paragraph"
+  },
+  {
+    "index": 135,
+    "text": "Chapter 5: Modules – Breaks down the system into key modules such as audio deepfake detection, image deepfake detection, video deepfake detection, and the explainability layers using Grad-CAM and attention heatmaps.",
+    "style": "List Paragraph"
+  },
+  {
+    "index": 136,
+    "text": "Chapter 6: Implementation – Details the implementation of deep learning models, model selection rationale, data pipeline management, and the frontend/backend synchronization process.",
+    "style": "List Paragraph"
+  },
+  {
+    "index": 137,
+    "text": "Chapter 7: Results and Discussions – Presents sample outputs from the system, model predictions, detection logs, visual explanations (e.g., heatmaps and spectrograms), and performance analysis of each module.",
+    "style": "List Paragraph"
+  },
+  {
+    "index": 138,
+    "text": "Chapter 8: Conclusion – Summarizes the project outcomes, evaluates system performance, discusses limitations, and outlines recommendations for future improvements and extensions, including integration with social media platforms.",
+    "style": "List Paragraph"
+  },
+  {
+    "index": 139,
+    "text": "Chapter 9: References – Lists all academic sources, research articles, and papers cited throughout the report, including recent advancements in deepfake forensics and AI-based detection methodologies.",
+    "style": "List Paragraph"
+  },
+  {
+    "index": 140,
+    "text": "",
+    "style": "List Paragraph"
+  },
+  {
+    "index": 141,
+    "text": "CHAPTER 2",
+    "style": "Heading 1"
+  },
+  {
+    "index": 142,
+    "text": "",
+    "style": "Body Text"
+  },
+  {
+    "index": 143,
+    "text": "LITERATURE SURVEY",
+    "style": "Normal"
+  },
+  {
+    "index": 144,
+    "text": "",
+    "style": "Body Text"
+  },
+  {
+    "index": 145,
+    "text": "INTRODUCTION",
+    "style": "Heading 2"
+  },
+  {
+    "index": 146,
+    "text": "The rapid evolution of digital media technologies has led to the emergence of sophisticated methods for both manipulating and detecting falsified content. Addressing the growing concern of media authenticity, researchers have proposed various techniques spanning video forgery detection, image tampering localization, biometric recognition, deepfake detection, and face anti-spoofing. These approaches aim to preserve digital trust and enhance the reliability of forensic systems.",
+    "style": "Body Text"
+  },
+  {
+    "index": 147,
+    "text": "",
+    "style": "Body Text"
+  },
+  {
+    "index": 148,
+    "text": "VIDEO FORGERY AND IMAGE TAMPERING DETECTION",
+    "style": "Heading 2"
+  },
+  {
+    "index": 149,
+    "text": "",
+    "style": "Body Text"
+  },
+  {
+    "index": 150,
+    "text": "In the realm of video forensics, D’Amiano et al. introduced a Patch Match-based dense- field algorithm that detects and localizes video copy-move forgeries. This method leverages invariant features and a multiresolution search to enhance detection efficiency. In a related study, D’Amiano et al. developed a sequential patch-based approach to identify object removal forgeries by modeling video sequences as stochastic processes, leading to improved localization precision. For image authentication, Qiao et al. proposed a statistical model-based detector using a texture weight map to detect resampling forgeries. This approach improves the robustness of image authentication systems against tampering.",
+    "style": "Body Text"
+  },
+  {
+    "index": 151,
+    "text": "",
+    "style": "Body Text"
+  },
+  {
+    "index": 152,
+    "text": "BIOMETRIC RECOGNITION AND SPOOFING PREVENTION",
+    "style": "Heading 2"
+  },
+  {
+    "index": 153,
+    "text": "",
+    "style": "Body Text"
+  },
+  {
+    "index": 154,
+    "text": "Biometric recognition remains a foundational technique in identity verification. Jain et al. offer a comprehensive overview of biometric modalities including fingerprints, iris, and",
+    "style": "Body Text"
+  },
+  {
+    "index": 155,
+    "text": "",
+    "style": "Body Text"
+  },
+  {
+    "index": 156,
+    "text": "facial features highlighting their uniqueness and vulnerability to spoofing. Building on this, Zhao and Kumar proposed a fusion technique that integrates deep features from both iris and periocular regions, demonstrating enhanced recognition performance on mobile devices even under challenging image conditions.",
+    "style": "Body Text"
+  },
+  {
+    "index": 157,
+    "text": "",
+    "style": "Body Text"
+  },
+  {
+    "index": 158,
+    "text": "DEEPFAKE DETECTION TECHNIQUES",
+    "style": "Heading 2"
+  },
+  {
+    "index": 159,
+    "text": "",
+    "style": "Body Text"
+  },
+  {
+    "index": 160,
+    "text": "",
+    "style": "Body Text"
+  },
+  {
+    "index": 161,
+    "text": "With the rising prevalence of synthetic media, deepfake detection has become a critical area of research. Nguyen et al. conducted a systematic review, categorizing AI-based forgery detection methods. A separate case study examined the lifecycle of deepfake generation and detection, advocating multimodal strategies for improved resilience. For detecting manipulated compressed videos, a two-stream convolutional network was introduced, which analyzes spatial and temporal features to enhance detection accuracy on social media. Additionally, a neural memory network proposed in demonstrates high efficacy in detecting fraudulent facial imagery by identifying subtle inconsistencies often missed by traditional CNNs.",
+    "style": "Body Text"
+  },
+  {
+    "index": 162,
+    "text": "",
+    "style": "Body Text"
+  },
+  {
+    "index": 163,
+    "text": "FACE ANTI-SPOOFING METHODS",
+    "style": "Heading 2"
+  },
+  {
+    "index": 164,
+    "text": "",
+    "style": "Body Text"
+  },
+  {
+    "index": 165,
+    "text": "Face anti-spoofing remains pivotal in preventing unauthorized biometric access. Li et al. developed an unsupervised domain adaptation framework enabling models to generalize across various datasets without the need for labeled target data. Another study leveraged multiscale dynamic binarized statistical image features through multiple descriptor fusion, improving detection against print, replay, and 3D mask attacks. To address the challenge of deepfake-fueled misinformation, a two-stream architecture with learnable SRM filters was employed to identify both visual and noise-based artifacts in manipulated media.",
+    "style": "Body Text"
+  },
+  {
+    "index": 166,
+    "text": "",
+    "style": "Body Text"
+  },
+  {
+    "index": 167,
+    "text": "MULTIMODAL AND AUDIO-VISUAL SYNC APPROACHES",
+    "style": "Heading 2"
+  },
+  {
+    "index": 168,
+    "text": "",
+    "style": "Body Text"
+  },
+  {
+    "index": 169,
+    "text": "For image tampering localization, a multi-scale fusion model aggregates spatial information across various scales, thereby improving the accuracy of altered region identification. In speaker authentication, dynamic lip movement analysis technique enhances security by verifying audio-visual synchronization, thereby detecting deepfake impersonation attempts. Furthermore, video bitrate manipulation is tackled using a hybrid deep-learning network capable of identifying recompression artifacts in bitrate-forged videos. Lastly, Badrinarayanan et al. presented SegNet, a deep convolutional encoder- decoder initially designed for scene segmentation, which has been repurposed for deepfake and image tampering detection in digital forensics.",
+    "style": "Body Text"
+  },
+  {
+    "index": 170,
+    "text": "",
+    "style": "Body Text"
+  },
+  {
+    "index": 171,
+    "text": "SUMMARY",
+    "style": "Heading 2"
+  },
+  {
+    "index": 172,
+    "text": "The body of research in digital media forensics demonstrates significant progress in the detection and mitigation of manipulated content. Through the integration of deep learning, and multimodal analysis, these studies collectively strengthen the field’s capacity to secure digital content. Each method contributes uniquely to addressing specific manipulation challenges.",
+    "style": "Body Text"
+  },
+  {
+    "index": 173,
+    "text": "",
+    "style": "Body Text"
+  },
+  {
+    "index": 174,
+    "text": "CHAPTER 3 PROPOSED METHODOLOGY",
+    "style": "Heading 1"
+  },
+  {
+    "index": 175,
+    "text": "INTRODUCTION",
+    "style": "Heading 2"
+  },
+  {
+    "index": 176,
+    "text": "",
+    "style": "Body Text"
+  },
+  {
+    "index": 177,
+    "text": "The proposed system, introduces a multimodal approach to deepfake detection through the integration of advanced deep learning models and explainable AI techniques. In contrast to traditional detection systems that target specific media types, this system simultaneously analyzes audio, image, and video data using tailored models to identify forgeries.",
+    "style": "Body Text"
+  },
+  {
+    "index": 178,
+    "text": "By combining Wav2Vec 2.0 for audio, Vision Transformer (ViT) for images, and Xception with transformer-based fusion for video analysis, this system ensures robust, real-time media authentication. The system also leverages explainable AI (XAI) to provide transparency in model predictions, enhancing trust and interpretability in high- stakes domains such as media integrity and cybersecurity.",
+    "style": "Body Text"
+  },
+  {
+    "index": 179,
+    "text": "",
+    "style": "Body Text"
+  },
+  {
+    "index": 180,
+    "text": "SYSTEM WORKFLOW",
+    "style": "Heading 2"
+  },
+  {
+    "index": 181,
+    "text": "",
+    "style": "Body Text"
+  },
+  {
+    "index": 182,
+    "text": "This system is designed around a structured, multi-stage workflow that ensures accurate and efficient detection of manipulated content. The process begins with the upload of media files either audio, image, or video through a web interface. Following this, the preprocessing module standardizes the inputs by normalizing formats, resizing images or frames, and converting audio to a consistent codec like FLAC. These preprocessed files are then fed into dedicated feature extraction pipelines tailored for each data type. Deep learning inference is performed using pre-trained models, and the resulting predictions are further enriched by explainability visualizations. The final output includes a classification label (real or fake), a confidence score, and visual evidence supporting the",
+    "style": "Body Text"
+  },
+  {
+    "index": 183,
+    "text": "",
+    "style": "Body Text"
+  },
+  {
+    "index": 184,
+    "text": "model’s decision. The front-end interface aggregates and presents these results to the user in an intuitive and interactive manner. The workflow also includes timestamped logs and downloadable reports to support traceability and auditability of predictions.",
+    "style": "Body Text"
+  },
+  {
+    "index": 185,
+    "text": "Another important aspect of this system workflow is its modular and extensible architecture, which allows for seamless integration of future models and tools as deepfake generation techniques evolve. The system is built in a component-based manner, where each media type has a dedicated processing and inference pipeline that can be updated independently. This modularity not only simplifies debugging and performance tuning but also ensures that newer, more advanced models can be incorporated without overhauling the entire system. For instance, if a more efficient or accurate audio model is released, it can replace the current Wav2Vec 2.0 module with minimal changes to the rest of the backend. This flexibility future-proofs the system and ensures that it can adapt to new types of deepfakes, including those leveraging multimodal synthesis or adversarial training methods. Furthermore, the workflow is designed with scalability in mind, supporting batch processing and parallel inference on multi-core CPUs or GPUs, which is essential for real-world deployments where speed and throughput are critical.",
+    "style": "Body Text"
+  },
+  {
+    "index": 186,
+    "text": "",
+    "style": "Body Text"
+  },
+  {
+    "index": 187,
+    "text": "AUDIO DEEPFAKE DETECTION",
+    "style": "Heading 2"
+  },
+  {
+    "index": 188,
+    "text": "",
+    "style": "Body Text"
+  },
+  {
+    "index": 189,
+    "text": "PREPROCESSING AND FEATURE ENGINEERING",
+    "style": "List Paragraph"
+  },
+  {
+    "index": 190,
+    "text": "Preprocessing plays a critical role in the audio deepfake detection pipeline, ensuring that the input audio is transformed into a format that can be efficiently and accurately analyzed by the deep learning model. The uploaded audio is first validated for integrity and format compliance. Given the diversity in audio formats and quality, a standardization step is performed using the ffmpeg tool to convert all inputs into the FLAC (Free Lossless Audio Codec) format. This format is preferred due to its lossless nature, which preserves the subtle variations in pitch, tone, and texture key indicators of",
+    "style": "Body Text"
+  },
+  {
+    "index": 191,
+    "text": "",
+    "style": "Body Text"
+  },
+  {
+    "index": 192,
+    "text": "synthetic manipulation in audio deepfakes.",
+    "style": "Body Text"
+  },
+  {
+    "index": 193,
+    "text": "",
+    "style": "Body Text"
+  },
+  {
+    "index": 194,
+    "text": "Once the format is standardized, the audio signal is down sampled to a fixed sampling rate to ensure uniformity across all samples. Noise reduction filters may be optionally applied to eliminate background hiss or artifacts that could interfere with feature extraction. The system then leverages the librosa library to extract a rich set of acoustic features that serve as the foundation for the deepfake detection process. These features include raw waveforms, Short-Time Fourier Transform (STFT) spectrograms, Mel- frequency spectrograms, and Mel-frequency cepstral coefficients (MFCCs). These representations allow the model to capture both time-domain and frequency-domain information, which are crucial for distinguishing between natural and synthesized speech.",
+    "style": "Body Text"
+  },
+  {
+    "index": 195,
+    "text": "An important step in this process is the segmentation of longer audio samples into smaller windows for localized analysis. This segmentation enables the system to detect short bursts of anomalies, such as voice cloning glitches or unnatural prosody, which might be diluted in a full-length analysis. Each segment is then individually processed and visualized to capture micro-level inconsistencies that are common in AI- generated voices. The generated spectrograms and MFCCs are not only passed to the model for classification but also retained for use in explainable AI visualizations that accompany the final output.",
+    "style": "Body Text"
+  },
+  {
+    "index": 196,
+    "text": "The extracted features are compiled into tensors and normalized to ensure that amplitude differences do not bias the model’s performance. Additionally, silence trimming is applied to remove irrelevant pauses, which helps in reducing computational load and improving model focus. By combining signal enhancement techniques, multi- dimensional feature extraction, and adaptive segmentation, the preprocessing and feature engineering pipeline ensures high-fidelity input to the Wav2Vec 2.0 model,setting a strong foundation for reliable and interpretable audio deepfake detection.",
+    "style": "Body Text"
+  },
+  {
+    "index": 197,
+    "text": "",
+    "style": "Body Text"
+  },
+  {
+    "index": 198,
+    "text": "MODEL INFERENCE",
+    "style": "Heading 2"
+  },
+  {
+    "index": 199,
+    "text": "",
+    "style": "Body Text"
+  },
+  {
+    "index": 200,
+    "text": "The audio classification task is handled by the Wav2Vec 2.0 model, a pre-trained transformer-based network specialized in speech processing. The model processes raw waveform data and generates probability scores indicating whether the audio is real or synthetically generated. The final output includes a prediction label, confidence score, and visual elements such as spectrograms, frequency graphs, and audio intensity plots. These visual explanations help the user understand anomalies that suggest tampering, providing transparency in decision-making.",
+    "style": "Body Text"
+  },
+  {
+    "index": 201,
+    "text": "",
+    "style": "Body Text"
+  },
+  {
+    "index": 202,
+    "text": "IMAGE DEEPFAKE DETECTION",
+    "style": "Heading 2"
+  },
+  {
+    "index": 203,
+    "text": "",
+    "style": "Body Text"
+  },
+  {
+    "index": 204,
+    "text": "",
+    "style": "Body Text"
+  },
+  {
+    "index": 205,
+    "text": "The image deepfake detection module in this system is designed to identify manipulated facial images by leveraging the advanced capabilities of the Vision Transformer (ViT). This module follows a structured process beginning with rigorous preprocessing to ensure that input images are resized and normalized for compatibility with the ViT model. Once standardized, the images are passed through the transformer network, which captures complex spatial relationships using self-attention mechanisms to detect inconsistencies indicative of deepfake alterations. To promote transparency and interpretability, this module integrates explainable AI techniques such as FFT analysis, edge maps, and activation heatmaps to highlight the region’s most responsible for the classification decision. The final output includes the classification result (real or fake), a confidence score, and optional visualizations, providing users with both high accuracy and clear insight into the system's decision-making process.",
+    "style": "Body Text"
+  },
+  {
+    "index": 206,
+    "text": "IMAGE PREPROCESSING FOR VISION TRANSFORMER",
+    "style": "Heading 2"
+  },
+  {
+    "index": 207,
+    "text": "",
+    "style": "Body Text"
+  },
+  {
+    "index": 208,
+    "text": "Image inputs are first validated for resolution and quality. They are then resized to",
+    "style": "Body Text"
+  },
+  {
+    "index": 209,
+    "text": "",
+    "style": "Body Text"
+  },
+  {
+    "index": 210,
+    "text": "384×384 pixels and normalized using standard Vision Transformer preprocessing pipelines. These steps ensure that the data conforms to the input expectations of the pre- trained ViT model, allowing it to operate effectively regardless of the source image format.",
+    "style": "Body Text"
+  },
+  {
+    "index": 211,
+    "text": "",
+    "style": "Body Text"
+  },
+  {
+    "index": 212,
+    "text": "MODEL AND EXPLAINABILITY",
+    "style": "Heading 2"
+  },
+  {
+    "index": 213,
+    "text": "The Vision Transformer (ViT-384) is leveraged for image classification tasks due to its ability to model long-range dependencies and complex spatial relationships within an image. Unlike traditional convolutional neural networks (CNNs), ViT-384 divides the input image into fixed-size patches, embeds them into a sequence, and processes them through multiple transformer layers. These layers utilize multi- head self-attention mechanisms to learn intricate patterns and contextual associations between different image regions, enabling robust classification performance.",
+    "style": "Body Text"
+  },
+  {
+    "index": 214,
+    "text": "",
+    "style": "Body Text"
+  },
+  {
+    "index": 215,
+    "text": "To enhance the interpretability and transparency of the model’s predictions, several explainability techniques are incorporated. FFT-based (Fast Fourier Transform) frequency analysis helps in identifying anomalies in the frequency domain, which are often indicative of image manipulations or synthetic content. Edge detection algorithms reveal structural outlines and contours, allowing visualization of texture inconsistencies that might signal tampering. Pixel intensity histograms provide insights into the distribution of brightness and contrast levels, helping detect unnatural variations introduced during manipulation. Furthermore, occlusion sensitivity maps are generated by systematically masking different parts of the image and observing the corresponding changes in classification confidence. This highlights the regions that most significantly influence the model's decision-making process.",
+    "style": "Body Text"
+  },
+  {
+    "index": 216,
+    "text": "",
+    "style": "Body Text"
+  },
+  {
+    "index": 217,
+    "text": "By using these explainability tools, the system does more than just classify images it also",
+    "style": "Body Text"
+  },
+  {
+    "index": 218,
+    "text": "",
+    "style": "Body Text"
+  },
+  {
+    "index": 219,
+    "text": "shows which parts of the image had the biggest impact on its decision. This is especially helpful when detecting manipulated or fake content, such as deepfakes, where it's important to understand why the model made a specific prediction. For instance, FFT- based frequency analysis can reveal unusual patterns that may indicate manipulation, while edge detection can highlight unnatural boundaries. Pixel intensity histograms help identify irregular brightness and contrast levels, which may suggest tampering.",
+    "style": "Body Text"
+  },
+  {
+    "index": 220,
+    "text": "",
+    "style": "Body Text"
+  },
+  {
+    "index": 221,
+    "text": "Additionally, occlusion sensitivity maps help pinpoint which regions of the image are most important to the classification by masking different areas and seeing how the model’s prediction changes. These tools not only make the model more accurate but also provide valuable insights, allowing experts to identify manipulated parts of an image. This makes the system more reliable for critical tasks like deepfake detection, ensuring that users can trust the model’s predictions and explanations.",
+    "style": "Body Text"
+  },
+  {
+    "index": 222,
+    "text": "",
+    "style": "Body Text"
+  },
+  {
+    "index": 223,
+    "text": "MODEL INFERENCE",
+    "style": "Heading 2"
+  },
+  {
+    "index": 224,
+    "text": "The output of the image detection model includes several key components to provide both the final classification and valuable insights into how the decision was made. The primary output is a binary label that classifies the image as either “real (authentic) ” or “fake (manipulated)”. This label is the result of the model’s analysis of visual patterns, with the goal of distinguishing genuine images from altered ones.",
+    "style": "Body Text"
+  },
+  {
+    "index": 225,
+    "text": "",
+    "style": "Body Text"
+  },
+  {
+    "index": 226,
+    "text": "Along with the binary label, the model also generates a normalized confidence score, which quantifies the model’s certainty in its prediction. This score typically ranges from",
+    "style": "Body Text"
+  },
+  {
+    "index": 227,
+    "text": "0 to 1, where a higher value indicates greater confidence in the classification. The confidence score adds an extra layer of transparency, helping users assess how much trust to place in the model's decision.",
+    "style": "Body Text"
+  },
+  {
+    "index": 228,
+    "text": "",
+    "style": "Body Text"
+  },
+  {
+    "index": 229,
+    "text": "Optionally, the output can include base64-encoded visualizations, such as activation heatmaps and spectrum overlays, which provide a deeper understanding of the model’s reasoning. Activation heatmaps highlight the regions of the image that influenced the model's classification, allowing users to visually trace which parts of the image were most important in making the decision. Spectrum overlays, on the other hand, highlight noise artifacts or unusual frequency patterns that may point to image manipulation. These visual explanations are especially useful in sensitive contexts, as they help confirm the authenticity of the model’s judgment and make it easier to identify tampered areas.",
+    "style": "Body Text"
+  },
+  {
+    "index": 230,
+    "text": "",
+    "style": "Body Text"
+  },
+  {
+    "index": 231,
+    "text": "VIDEO DEEPFAKE DETECTION",
+    "style": "Heading 2"
+  },
+  {
+    "index": 232,
+    "text": "",
+    "style": "Body Text"
+  },
+  {
+    "index": 233,
+    "text": "FRAME EXTRACTION AND PREPROCESSING",
+    "style": "Heading 2"
+  },
+  {
+    "index": 234,
+    "text": "",
+    "style": "Body Text"
+  },
+  {
+    "index": 235,
+    "text": "The video deepfake detection pipeline begins by extracting a fixed number of frames typically 10 from the uploaded video using OpenCV. These frames are uniformly sampled to ensure they represent the video’s overall content. Each frame is resized, normalized, and prepared for feature extraction using Xception-based convolutional networks.",
+    "style": "Body Text"
+  },
+  {
+    "index": 236,
+    "text": "After preparing the frames, the next step is to extract features using an Xception-based convolutional neural network (CNN). Xception is chosen for its ability to capture complex visual patterns through separable convolutions, making it effective at learning fine-grained details in each frame. The network extracts high-level features that help differentiate real from fake content. These extracted features are then processed through fully connected layers, or classifiers, to generate individual predictions for each frame. The results from all frames are aggregated, providing a final decision on the video's authenticity. This approach ensures that the model captures both spatial and temporal inconsistencies across frames, which is crucial for detecting deepfakes.",
+    "style": "Body Text"
+  },
+  {
+    "index": 237,
+    "text": "",
+    "style": "Body Text"
+  },
+  {
+    "index": 238,
+    "text": "MODEL ARCHITECTURE",
+    "style": "Heading 2"
+  },
+  {
+    "index": 239,
+    "text": "",
+    "style": "Body Text"
+  },
+  {
+    "index": 240,
+    "text": "Each extracted frame is passed through multiple Xception models, each pre-trained on different deepfake datasets to capture diverse features. The frame-level features are then aggregated by a custom Transformer-based fusion model called VideoTransformer. This model captures temporal dependencies and irregularities across the sequence of frames, making it effective in identifying deepfake artifacts that only become apparent when frames are viewed in context.",
+    "style": "Body Text"
+  },
+  {
+    "index": 241,
+    "text": "",
+    "style": "Body Text"
+  },
+  {
+    "index": 242,
+    "text": "EXPLAINABILITY AND OUTPUT",
+    "style": "Heading 2"
+  },
+  {
+    "index": 243,
+    "text": "",
+    "style": "Body Text"
+  },
+  {
+    "index": 244,
+    "text": "To support interpretability, the system employs attention-based techniques to assess frame importance, supplemented by Grad-CAM heatmaps that highlight manipulated facial regions. The final output includes a classification label, a confidence score, frame- by-frame relevance indicators, and visual overlays that explain the detection result. These insights help users discern how and where the video may have been manipulated.",
+    "style": "Body Text"
+  },
+  {
+    "index": 245,
+    "text": "",
+    "style": "Body Text"
+  },
+  {
+    "index": 246,
+    "text": "INTEGRATED DEEP LEARNING FRAMEWORK",
+    "style": "Heading 2"
+  },
+  {
+    "index": 247,
+    "text": "This system is a comprehensive deepfake detection system that integrates a diverse set of specialized models, each optimized for specific types of media audio, image, and video to ensure high performance, accuracy, and generalizability across various formats. By utilizing a modular pipeline architecture, the system can leverage the strengths of different models tailored to each media type, making it a powerful and flexible solution for detecting deepfakes in diverse contexts.",
+    "style": "Body Text"
+  },
+  {
+    "index": 248,
+    "text": "The audio pipeline is powered by Wav2Vec 2.0, a state-of-the-art model for raw waveform classification. Wav2Vec 2.0 excels at learning representations from unlabelled speech data and is particularly effective in distinguishing authentic audio from synthetic audio, such as",
+    "style": "Body Text"
+  },
+  {
+    "index": 249,
+    "text": "deepfake speech or voice synthesis. This model is trained to recognize the subtle nuances",
+    "style": "Body Text"
+  },
+  {
+    "index": 250,
+    "text": "",
+    "style": "Body Text"
+  },
+  {
+    "index": 251,
+    "text": "of real human speech patterns, capturing acoustic features that indicate whether the audio has been manipulated.",
+    "style": "Body Text"
+  },
+  {
+    "index": 252,
+    "text": "For the image pipeline, proposed sytem utilizes the Vision Transformer (ViT-384), which is a cutting-edge model for image classification. ViT-384 processes images by splitting them into patches and using multi-head self- attention mechanisms to capture spatial relationships and intricate patterns in the image. This enables the model to effectively detect artifacts or inconsistencies in images, such as those commonly found in deepfakes, by identifying subtle changes in textures, lighting, or boundaries. ViT-384’s attention- based architecture allows it to focus on relevant parts of the image, making it particularly effective for tasks likedetecting manipulated facial features or altered backgrounds in images.",
+    "style": "Body Text"
+  },
+  {
+    "index": 253,
+    "text": "",
+    "style": "Body Text"
+  },
+  {
+    "index": 254,
+    "text": "The video pipeline is a more complex integration, combining multiple Xception models with a Transformer-based aggregation layer. Xception is a deep convolutional network that excels in capturing fine-grained temporal and spatial features, making it ideal for processing video frames. The use of multiple Xception models ensures that the system can analyze different aspects of the video content, from individual frames to the overall temporal consistency of the video. The Transformer-based aggregation layer is responsible for combining the outputs of these models and capturing the long-range dependencies across frames, ensuring that the model considers not just isolated frames but also how they relate to each other over time. This helps in detecting deepfake videos where manipulation may be less apparent when looking at individual frames but becomes more evident when considering the video as a whole.",
+    "style": "Body Text"
+  },
+  {
+    "index": 255,
+    "text": "All of these models are implemented using PyTorch and HuggingFace Transformers libraries, which are widely recognized for their flexibility, scalability, and performance in deep learning tasks. These frameworks allow system to harness the latest advancements",
+    "style": "Body Text"
+  },
+  {
+    "index": 256,
+    "text": "",
+    "style": "Body Text"
+  },
+  {
+    "index": 257,
+    "text": "in deepfake detection, ensuring top-tier performance in each media type.",
+    "style": "Body Text"
+  },
+  {
+    "index": 258,
+    "text": "",
+    "style": "Body Text"
+  },
+  {
+    "index": 259,
+    "text": "In addition to the core detection models, proposed system incorporates explainable AI (XAI) features to enhance model transparency and interpretability. Captum, an XAI library for PyTorch, is used to generate activation heatmaps, which highlight the regions in the image or video that contributed most to the model's decision. This helps in understanding which features the model relied on to classify a piece of media as real or fake. Additionally, OpenCV is integrated for visualizations such as FFT (Fast Fourier Transform) analysis, which can identify frequency-based anomalies or noise artifacts in images and videos. These tools provide visual overlays that highlight tampered regions or inconsistencies, helping forensic experts and users better understand the model's reasoning behind its predictions.",
+    "style": "Body Text"
+  },
+  {
+    "index": 260,
+    "text": "This ensemble of specialized models and XAI tools ensures that system is not only highly accurate but also interpretable and adaptable across different media formats. Whether detecting deepfakes in audio, images, or videos, the system is robust and scalable, able to handle a wide range of manipulation techniques and content formats. Its use of explainability features further enhances trust in the system, making it a valuable tool for both automated detection and human verification in real-world deepfake scenarios.",
+    "style": "Body Text"
+  },
+  {
+    "index": 261,
+    "text": "",
+    "style": "Body Text"
+  },
+  {
+    "index": 262,
+    "text": "DEPLOYMENT AND USER INTERFACE",
+    "style": "Heading 2"
+  },
+  {
+    "index": 263,
+    "text": "",
+    "style": "Body Text"
+  },
+  {
+    "index": 264,
+    "text": "FLASK BACKEND",
+    "style": "Heading 2"
+  },
+  {
+    "index": 265,
+    "text": "The backend of the proposed system is built using Flask, a lightweight Python framework ideal for creating RESTful APIs. It handles essential tasks such as media upload validation and format conversion to ensure that the uploaded audio, image, or video files are compatible with the detection pipeline. Once the media is validated, the backend passes it to the appropriate deep learning model for inference, where the system analyzes",
+    "style": "Body Text"
+  },
+  {
+    "index": 266,
+    "text": "the content and generates a classification result (real or fake) along with a confidence",
+    "style": "Body Text"
+  },
+  {
+    "index": 267,
+    "text": "",
+    "style": "Body Text"
+  },
+  {
+    "index": 268,
+    "text": "score.",
+    "style": "Body Text"
+  },
+  {
+    "index": 269,
+    "text": "In addition to classification, the backend also generates visual explanations such as activation heatmaps and frequency analysis overlays. These visual assets are returned in base64-encoded format within the JSON response, making it easy for the front-end to display them. These explanations help users understand the reasoning behind the model's decision, which is crucial in forensic and deepfake detection scenarios. The backend ensures smooth integration by serving structured JSON responses containing both the classification results and any visual assets.",
+    "style": "Body Text"
+  },
+  {
+    "index": 270,
+    "text": "The backend also manages logging and stores a detection history for future reference. Detailed logs track user requests, processing times, and inference results, while structured reports are generated to summarize past detections. This helps with system auditing, debugging, and providing users with the ability to review previous analysis. Overall, the backend ensures efficient operation, scalability, and transparency for the proposed system, facilitating smooth interaction with the front-end interface.",
+    "style": "Body Text"
+  },
+  {
+    "index": 271,
+    "text": "REACT FRONTEND",
+    "style": "Heading 2"
+  },
+  {
+    "index": 272,
+    "text": "",
+    "style": "Body Text"
+  },
+  {
+    "index": 273,
+    "text": "The React-based frontend serves as the user-facing component of the system, offering a clean, intuitive, and interactive interface for users to engage with the deepfake detection process. It allows users to easily upload media files whether audio, image, or video through a drag-and-drop or file selection interface. Once processed by the backend, the frontend dynamically displays the results, including prediction labels (e.g., real or fake), confidence scores represented through progress bars, and interactive visualizations. These visual outputs, such as Grad-CAM heatmaps for images and spectrograms for audio, help users understand what areas of the media influenced the model’s decision. These insights are essential for trust and transparency, especially in investigative or forensic applications. Beyond real-time detection results, the frontend includes features that enhance usability",
+    "style": "Body Text"
+  },
+  {
+    "index": 274,
+    "text": "",
+    "style": "Body Text"
+  },
+  {
+    "index": 275,
+    "text": "and analysis over time. Users can access session history, enabling them to review previously uploaded files and their associated results. Time-based filters allow users to sort and analyze past uploads, identify patterns, or track suspicious content trends. The interface is designed to be fully responsive, ensuring a seamless experience across various devices from desktops to tablets and mobile phones. Additionally, users can download structured reports summarizing each detection session, which is useful for documentation, sharing, or further review. Altogether, the frontend not only delivers real-time results but also supports deeper interaction and analysis in a user-friendly environment.",
+    "style": "Body Text"
+  },
+  {
+    "index": 276,
+    "text": "",
+    "style": "Body Text"
+  },
+  {
+    "index": 277,
+    "text": "SCALABILITY AND MODULARITY",
+    "style": "Heading 2"
+  },
+  {
+    "index": 278,
+    "text": "This system is designed for scalability and modularity. The backend can operate on both CPU and GPU environments and supports future integration of new models or datasets. Cloud deployment options such as AWS, Heroku, or GCP allow for remote access and horizontal scaling. The modular codebase ensures that individual components such as model inference or visualization can be replaced or upgraded independently without affecting the overall system.",
+    "style": "Body Text"
+  },
+  {
+    "index": 279,
+    "text": "",
+    "style": "Body Text"
+  },
+  {
+    "index": 280,
+    "text": "UML Diagrams",
+    "style": "Heading 2"
+  },
+  {
+    "index": 281,
+    "text": "",
+    "style": "Body Text"
+  },
+  {
+    "index": 282,
+    "text": "A UML (Unified Modeling Language) diagram for the deepfake detection system visually represents the structure and behavior of the application. It models the interaction between users and system components like audio, video, and image analyzers. The diagram highlights modules such as Flask backend, React frontend, and deep learning models including Wav2Vec 2.0, ViT, and Video Transformer. It includes use cases like media upload, detection processing, and report generation. This helps in understanding, designing, and documenting the system efficiently.",
+    "style": "Body Text"
+  },
+  {
+    "index": 283,
+    "text": "USE CASE DIAGRAM",
+    "style": "Heading 2"
+  },
+  {
+    "index": 284,
+    "text": "",
+    "style": "Heading 2"
+  },
+  {
+    "index": 285,
+    "text": "",
+    "style": "Body Text"
+  },
+  {
+    "index": 286,
+    "text": "Figure 3.1: Use Case diagram",
+    "style": "Normal"
+  },
+  {
+    "index": 287,
+    "text": "",
+    "style": "Body Text"
+  },
+  {
+    "index": 288,
+    "text": "This use case diagram represents the workflow of a Multi-Modal Deepfake Detection System. Users can upload media (audio, video, image) to detect deepfakes using specialized models like Xception + Transformer, ViT-384, and Wav2Vec 2.0. The system includes preprocessing, model inference, explanation generation, and returns results in JSON format. It also supports explainable AI visualizations for transparency.",
+    "style": "Body Text"
+  },
+  {
+    "index": 289,
+    "text": "Actors:",
+    "style": "List Paragraph"
+  },
+  {
+    "index": 290,
+    "text": "User: Uploads media files (audio, image, video), initiates deepfake detection, and views explainable AI (XAI) results.",
+    "style": "List Paragraph"
+  },
+  {
+    "index": 291,
+    "text": "Use Cases:",
+    "style": "List Paragraph"
+  },
+  {
+    "index": 292,
+    "text": "",
+    "style": "List Paragraph"
+  },
+  {
+    "index": 293,
+    "text": "Upload media file.",
+    "style": "List Paragraph"
+  },
+  {
+    "index": 294,
+    "text": "Preprocess input data.",
+    "style": "List Paragraph"
+  },
+  {
+    "index": 295,
+    "text": "Run detection model (Wav2Vec 2.0 for audio, ViT-384 for image, Xception",
+    "style": "List Paragraph"
+  },
+  {
+    "index": 296,
+    "text": "+ Transformer for video).",
+    "style": "Body Text"
+  },
+  {
+    "index": 297,
+    "text": "Generate XAI visualization.",
+    "style": "List Paragraph"
+  },
+  {
+    "index": 298,
+    "text": "Return prediction results (confidence score, prediction, evidence).",
+    "style": "List Paragraph"
+  },
+  {
+    "index": 299,
+    "text": "View explanation.",
+    "style": "List Paragraph"
+  },
+  {
+    "index": 300,
+    "text": "",
+    "style": "Body Text"
+  },
+  {
+    "index": 301,
+    "text": "CLASS DIAGRAM",
+    "style": "Heading 2"
+  },
+  {
+    "index": 302,
+    "text": "",
+    "style": "Body Text"
+  },
+  {
+    "index": 303,
+    "text": "The class diagram illustrates the architecture of a multi-modal deepfake detection system, where the AppController coordinates detection across audio, image, and video inputs. It integrates preprocessing utilities, model-specific detectors, and XAI visualization tools to provide interpretable and accurate results.",
+    "style": "Body Text"
+  },
+  {
+    "index": 304,
+    "text": "User: Interacts with the system through the AppController to initiate deepfake detection and view results.",
+    "style": "List Paragraph"
+  },
+  {
+    "index": 305,
+    "text": "AppController: Acts as the central interface, routing media to appropriate detectors.",
+    "style": "List Paragraph"
+  },
+  {
+    "index": 306,
+    "text": "VideoDeepfakeDetector, ImageDeepfakeDetector, AudioDeepfakeDetector: Specialized modules that handle detection in respective media formats.",
+    "style": "List Paragraph"
+  },
+  {
+    "index": 307,
+    "text": "XceptionModel, VideoTransformer, ViTModel, Wav2Vec2Model: Deep learning models used for feature extraction and classification.",
+    "style": "List Paragraph"
+  },
+  {
+    "index": 308,
+    "text": "PreprocessingUtils & XAIVisualizer: Utility components for preprocessing data and generating explainable AI visualizations.",
+    "style": "List Paragraph"
+  },
+  {
+    "index": 309,
+    "text": "",
+    "style": "List Paragraph"
+  },
+  {
+    "index": 310,
+    "text": "",
+    "style": "Body Text"
+  },
+  {
+    "index": 311,
+    "text": "",
+    "style": "Body Text"
+  },
+  {
+    "index": 312,
+    "text": "Figure 3.2: Class diagram",
+    "style": "Normal"
+  },
+  {
+    "index": 313,
+    "text": "",
+    "style": "Body Text"
+  },
+  {
+    "index": 314,
+    "text": "SEQUENCE DIAGRAM",
+    "style": "Heading 2"
+  },
+  {
+    "index": 315,
+    "text": "",
+    "style": "Body Text"
+  },
+  {
+    "index": 316,
+    "text": "The Sequence Diagram outlines the step-by-step flow of a media classification request, from the initial media upload to the final JSON response, including explanation and confidence score.",
+    "style": "Body Text"
+  },
+  {
+    "index": 317,
+    "text": "The user uploads a media file (image, video, or audio) through the app.",
+    "style": "List Paragraph"
+  },
+  {
+    "index": 318,
+    "text": "The system detects the media type and processes it accordingly:",
+    "style": "List Paragraph"
+  },
+  {
+    "index": 319,
+    "text": "Extracts frames for video, creates spectrogram for audio, or directly uses the image.",
+    "style": "List Paragraph"
+  },
+  {
+    "index": 320,
+    "text": "The processed data is classified using the appropriate deep learning model, and an explanation (e.g., Grad-CAM or annotated spectrogram) is generated.",
+    "style": "List Paragraph"
+  },
+  {
+    "index": 321,
+    "text": "",
+    "style": "List Paragraph"
+  },
+  {
+    "index": 322,
+    "text": "A JSON response with prediction, confidence score, and explanation is returned to the user.",
+    "style": "List Paragraph"
+  },
+  {
+    "index": 323,
+    "text": "",
+    "style": "Body Text"
+  },
+  {
+    "index": 324,
+    "text": "",
+    "style": "Body Text"
+  },
+  {
+    "index": 325,
+    "text": "",
+    "style": "Body Text"
+  },
+  {
+    "index": 326,
+    "text": "",
+    "style": "Body Text"
+  },
+  {
+    "index": 327,
+    "text": "Figure 3.3: Sequence diagram",
+    "style": "Normal"
+  },
+  {
+    "index": 328,
+    "text": "",
+    "style": "Body Text"
+  },
+  {
+    "index": 329,
+    "text": "ACTIVITY DIAGRAM",
+    "style": "Heading 2"
+  },
+  {
+    "index": 330,
+    "text": "The Activity Diagram represents the flow of activities involved in classifying media files using the deepfake detection system.",
+    "style": "Body Text"
+  },
+  {
+    "index": 331,
+    "text": "The user uploads a media file (video, image, or audio).",
+    "style": "List Paragraph"
+  },
+  {
+    "index": 332,
+    "text": "The system identifies the media type and preprocesses it accordingly.",
+    "style": "List Paragraph"
+  },
+  {
+    "index": 333,
+    "text": "The content is classified using the appropriate deep learning model, and an explanation is generated.",
+    "style": "List Paragraph"
+  },
+  {
+    "index": 334,
+    "text": "The system returns a JSON response with prediction, confidence score, and explanation.",
+    "style": "List Paragraph"
+  },
+  {
+    "index": 335,
+    "text": "",
+    "style": "List Paragraph"
+  },
+  {
+    "index": 336,
+    "text": "",
+    "style": "Body Text"
+  },
+  {
+    "index": 337,
+    "text": "",
+    "style": "Body Text"
+  },
+  {
+    "index": 338,
+    "text": "Figure 3.4: Activity diagram",
+    "style": "Normal"
+  },
+  {
+    "index": 339,
+    "text": "",
+    "style": "Normal"
+  },
+  {
+    "index": 340,
+    "text": "DEPLOYMENT DIAGRAM",
+    "style": "Heading 2"
+  },
+  {
+    "index": 341,
+    "text": "",
+    "style": "Body Text"
+  },
+  {
+    "index": 342,
+    "text": "The Deployment Diagram depicts the system’s deployment across various interconnected services and modules using containerized architecture.",
+    "style": "Body Text"
+  },
+  {
+    "index": 343,
+    "text": "The client interacts with the system through a web interface from their device using HTTP/REST.",
+    "style": "List Paragraph"
+  },
+  {
+    "index": 344,
+    "text": "The Flask API server handles requests and orchestrates services via Docker containers.",
+    "style": "List Paragraph"
+  },
+  {
+    "index": 345,
+    "text": "Detection services (Video, Image, Audio) run independently and use respective deep learning models for classification.",
+    "style": "List Paragraph"
+  },
+  {
+    "index": 346,
+    "text": "Preprocessing and XAI visualization are handled by separate modules, and results are stored or retrieved via the storage system.",
+    "style": "List Paragraph"
+  },
+  {
+    "index": 347,
+    "text": "",
+    "style": "Body Text"
+  },
+  {
+    "index": 348,
+    "text": "",
+    "style": "Body Text"
+  },
+  {
+    "index": 349,
+    "text": "",
+    "style": "Body Text"
+  },
+  {
+    "index": 350,
+    "text": "",
+    "style": "Body Text"
+  },
+  {
+    "index": 351,
+    "text": "Figure 3.5: Deployment diagram",
+    "style": "Normal"
+  },
+  {
+    "index": 352,
+    "text": "",
+    "style": "Body Text"
+  },
+  {
+    "index": 353,
+    "text": "",
+    "style": "Body Text"
+  },
+  {
+    "index": 354,
+    "text": "The deployment diagram illustrates a modular, containerized architecture where various services work together to process and classify media files. The user interacts with the system through a web interface, which communicates with a Flask API server via HTTP/REST. This API server coordinates multiple Docker-based services including",
+    "style": "Body Text"
+  },
+  {
+    "index": 355,
+    "text": "",
+    "style": "Body Text"
+  },
+  {
+    "index": 356,
+    "text": "video, image, and audio detection, as well as preprocessing and explainability modules. Each detection service leverages specific deep learning models and checkpoints for classification. The system also includes a storage component for handling files and saving results, ensuring seamless and scalable operation.",
+    "style": "Body Text"
+  },
+  {
+    "index": 357,
+    "text": "",
+    "style": "Body Text"
+  },
+  {
+    "index": 358,
+    "text": "CHAPTER 4",
+    "style": "Heading 1"
+  },
+  {
+    "index": 359,
+    "text": "",
+    "style": "Body Text"
+  },
+  {
+    "index": 360,
+    "text": "PROPOSED SYSTEM ARCHITECTURE",
+    "style": "Normal"
+  },
+  {
+    "index": 361,
+    "text": "",
+    "style": "Body Text"
+  },
+  {
+    "index": 362,
+    "text": "INTRODUCTION",
+    "style": "Heading 2"
+  },
+  {
+    "index": 363,
+    "text": "The architecture of the Deepfake Detection System is designed to support real-time identification of manipulated media across video, image, and audio formats. Leveraging state-of-the-art deep learning models and a modular, scalable design, the system ensures robust, interpretable, and efficient detection. This chapter provides a comprehensive overview of the system architecture, explaining its components, workflows, and deployment strategy. The design facilitates ease of use, adaptability, and responsiveness to evolving deepfake threats.",
+    "style": "Body Text"
+  },
+  {
+    "index": 364,
+    "text": "",
+    "style": "Body Text"
+  },
+  {
+    "index": 365,
+    "text": "SYSTEM OVERVIEW",
+    "style": "Heading 2"
+  },
+  {
+    "index": 366,
+    "text": "The proposed system architecture consists of five main components:",
+    "style": "Body Text"
+  },
+  {
+    "index": 367,
+    "text": "",
+    "style": "Body Text"
+  },
+  {
+    "index": 368,
+    "text": "Data Ingestion Layer",
+    "style": "List Paragraph"
+  },
+  {
+    "index": 369,
+    "text": "Preprocessing Layer",
+    "style": "List Paragraph"
+  },
+  {
+    "index": 370,
+    "text": "Deep Learning Model Layer",
+    "style": "List Paragraph"
+  },
+  {
+    "index": 371,
+    "text": "Interpretability and Classification Layer",
+    "style": "List Paragraph"
+  },
+  {
+    "index": 372,
+    "text": "Deployment and User Interface Layer",
+    "style": "List Paragraph"
+  },
+  {
+    "index": 373,
+    "text": "",
+    "style": "List Paragraph"
+  },
+  {
+    "index": 374,
+    "text": "",
+    "style": "Body Text"
+  },
+  {
+    "index": 375,
+    "text": "Fig 4.1: System Architecture",
+    "style": "Normal"
+  },
+  {
+    "index": 376,
+    "text": "",
+    "style": "Body Text"
+  },
+  {
+    "index": 377,
+    "text": "SYSTEM COMPONENTS",
+    "style": "Heading 2"
+  },
+  {
+    "index": 378,
+    "text": "",
+    "style": "Body Text"
+  },
+  {
+    "index": 379,
+    "text": "DATA INGESTION LAYER",
+    "style": "Heading 2"
+  },
+  {
+    "index": 380,
+    "text": "",
+    "style": "Body Text"
+  },
+  {
+    "index": 381,
+    "text": "This layer serves as the gateway to the deepfake detection system, allowing users to submit media files for analysis. Users interact with a React-based frontend interface, designed for ease of use and seamless navigation. The interface provides options to upload a variety of media formats, including:",
+    "style": "Body Text"
+  },
+  {
+    "index": 382,
+    "text": "Images: .jpg, .jpeg, .png",
+    "style": "List Paragraph"
+  },
+  {
+    "index": 383,
+    "text": "Videos: .mp4, .avi, .mov",
+    "style": "List Paragraph"
+  },
+  {
+    "index": 384,
+    "text": "Audio: .wav, .mp3, .flac",
+    "style": "List Paragraph"
+  },
+  {
+    "index": 385,
+    "text": "Once a file is uploaded, the frontend performs basic client-side validation to check the",
+    "style": "Body Text"
+  },
+  {
+    "index": 386,
+    "text": "",
+    "style": "Body Text"
+  },
+  {
+    "index": 387,
+    "text": "file type and size. The validated file is then sent via HTTP POST to the Flask backend using RESTful API endpoints. The backend acts as a central controller, routing the media file to the appropriate processing pipeline based on its type.",
+    "style": "Body Text"
+  },
+  {
+    "index": 388,
+    "text": "For example:",
+    "style": "Body Text"
+  },
+  {
+    "index": 389,
+    "text": "If the uploaded file is a video, the system initiates the frame extraction and temporal analysis",
+    "style": "List Paragraph"
+  },
+  {
+    "index": 390,
+    "text": "pipeline.",
+    "style": "Body Text"
+  },
+  {
+    "index": 391,
+    "text": "If it's an image, it triggers the image classification and attention visualization module.",
+    "style": "List Paragraph"
+  },
+  {
+    "index": 392,
+    "text": "For audio files, the backend initiates the spectrogram conversion and voice feature extraction",
+    "style": "List Paragraph"
+  },
+  {
+    "index": 393,
+    "text": "process.",
+    "style": "Body Text"
+  },
+  {
+    "index": 394,
+    "text": "This dynamic routing mechanism ensures that each type of input is handled by the specialized deep learning model and preprocessing tools designed for it. The data ingestion layer thus plays a crucial role in maintaining the flexibility and multi-modal capability of the system.",
+    "style": "Body Text"
+  },
+  {
+    "index": 395,
+    "text": "Moreover, metadata such as upload timestamps, file name, and media type are logged and stored temporarily for session tracking and result association. The ingestion layer ensures that the system starts with clean, correctly-typed data, paving the way for accurate and efficient deepfake detection.",
+    "style": "Body Text"
+  },
+  {
+    "index": 396,
+    "text": "",
+    "style": "Body Text"
+  },
+  {
+    "index": 397,
+    "text": "PREPROCESSING LAYER",
+    "style": "Heading 2"
+  },
+  {
+    "index": 398,
+    "text": "",
+    "style": "Body Text"
+  },
+  {
+    "index": 399,
+    "text": "Once media is uploaded, the system applies format-specific preprocessing:",
+    "style": "List Paragraph"
+  },
+  {
+    "index": 400,
+    "text": "Images: Resized and normalized to standard dimensions.",
+    "style": "List Paragraph"
+  },
+  {
+    "index": 401,
+    "text": "Videos: Key frames are extracted at intervals for analysis.",
+    "style": "List Paragraph"
+  },
+  {
+    "index": 402,
+    "text": "Audio: Converted to FLAC format and transformed into spectrograms using Short- Time Fourier Transform (STFT).",
+    "style": "List Paragraph"
+  },
+  {
+    "index": 403,
+    "text": "This step ensures consistent and noise-free inputs across all modalities.",
+    "style": "List Paragraph"
+  },
+  {
+    "index": 404,
+    "text": "",
+    "style": "List Paragraph"
+  },
+  {
+    "index": 405,
+    "text": "DEEP LEARNING MODEL LAYER",
+    "style": "Heading 2"
+  },
+  {
+    "index": 406,
+    "text": "",
+    "style": "Body Text"
+  },
+  {
+    "index": 407,
+    "text": "ViT-384: For image-based deepfake detection using attention mechanisms.",
+    "style": "List Paragraph"
+  },
+  {
+    "index": 408,
+    "text": "XceptionNet + Video Transformer: For analyzing spatial and temporal inconsistencies in videos.",
+    "style": "List Paragraph"
+  },
+  {
+    "index": 409,
+    "text": "Wav2Vec 2.0: For extracting meaningful speech features to detect audio tampering.",
+    "style": "List Paragraph"
+  },
+  {
+    "index": 410,
+    "text": "DETECTION RESULTS LAYER",
+    "style": "Heading 2"
+  },
+  {
+    "index": 411,
+    "text": "",
+    "style": "Body Text"
+  },
+  {
+    "index": 412,
+    "text": "To ensure transparency and build user trust, this layer focuses on delivering interpretable and explainable results alongside raw predictions. For image and video inputs, Grad- CAM (Gradient-weighted Class Activation Mapping) is applied to generate heatmaps that visually indicate the regions within the media that influenced the model’s classification. These heatmaps help users see which facial features or spatial areas were deemed suspicious or indicative of manipulation. Similarly, for audio inputs, the system generates spectrogram visualizations to depict how the frequency and energy of sound change over time. These visualizations, enhanced with annotations or overlays, make it easier to spot unusual patterns or irregularities that might suggest tampering, even when such cues are inaudible to the human ear.",
+    "style": "Body Text"
+  },
+  {
+    "index": 413,
+    "text": "In addition to these visual aids, the system outputs confidence scores and clearly labeled predictions (e.g., “Real” or “Fake”) to quantify the model's certainty. Each detection is logged with metadata and timestamps, and a detailed report is generated containing the input details, model used, prediction outcome, and corresponding explanation visuals. These structured reports provide a transparent record of the classification process and support forensic analysis or auditing. By combining visual evidence with quantitative metrics, this layer makes the deepfake detection process not only more trustworthy but also easier to interpret and validate by users across technical and non-technical",
+    "style": "Body Text"
+  },
+  {
+    "index": 414,
+    "text": "",
+    "style": "Body Text"
+  },
+  {
+    "index": 415,
+    "text": "backgrounds.",
+    "style": "Body Text"
+  },
+  {
+    "index": 416,
+    "text": "",
+    "style": "Body Text"
+  },
+  {
+    "index": 417,
+    "text": "USER INTERFACE AND DEPLOYMENT LAYER",
+    "style": "Heading 2"
+  },
+  {
+    "index": 418,
+    "text": "",
+    "style": "Body Text"
+  },
+  {
+    "index": 419,
+    "text": "The system is deployed using:",
+    "style": "Body Text"
+  },
+  {
+    "index": 420,
+    "text": "Flask (Backend): Handles API routing, model invocation, and database interactions.",
+    "style": "List Paragraph"
+  },
+  {
+    "index": 421,
+    "text": "React (Frontend): Provides an intuitive UI for media upload, real-time feedback, and report access.",
+    "style": "List Paragraph"
+  },
+  {
+    "index": 422,
+    "text": "Docker Containers: Enable isolated, scalable model services for different media types.",
+    "style": "List Paragraph"
+  },
+  {
+    "index": 423,
+    "text": "Cloud Platform (e.g., AWS or Heroku) – Hosts the app for remote access and seamless deployment.",
+    "style": "List Paragraph"
+  },
+  {
+    "index": 424,
+    "text": "",
+    "style": "Body Text"
+  },
+  {
+    "index": 425,
+    "text": "DATA FLOW IN THE SYSTEM",
+    "style": "Heading 2"
+  },
+  {
+    "index": 426,
+    "text": "",
+    "style": "Body Text"
+  },
+  {
+    "index": 427,
+    "text": "The system's operation follows this sequence:",
+    "style": "Body Text"
+  },
+  {
+    "index": 428,
+    "text": "Media Upload: User provides input through the web interface.",
+    "style": "List Paragraph"
+  },
+  {
+    "index": 429,
+    "text": "Preprocessing: Input is formatted and cleaned for model compatibility.",
+    "style": "List Paragraph"
+  },
+  {
+    "index": 430,
+    "text": "Model Inference: Data is passed through relevant models for classification.",
+    "style": "List Paragraph"
+  },
+  {
+    "index": 431,
+    "text": "Explainability Output: Visuals and confidence scores are generated.",
+    "style": "List Paragraph"
+  },
+  {
+    "index": 432,
+    "text": "User Display: Results are presented on the UI and stored for future analysis.",
+    "style": "List Paragraph"
+  },
+  {
+    "index": 433,
+    "text": "",
+    "style": "Body Text"
+  },
+  {
+    "index": 434,
+    "text": "SYSTEM DEPLOYMENT STRATEGY",
+    "style": "Heading 2"
+  },
+  {
+    "index": 435,
+    "text": "To ensure scalability and ease of integration, the system uses:",
+    "style": "Body Text"
+  },
+  {
+    "index": 436,
+    "text": "",
+    "style": "Body Text"
+  },
+  {
+    "index": 437,
+    "text": "Containerization: All models and services are containerized using Docker.",
+    "style": "List Paragraph"
+  },
+  {
+    "index": 438,
+    "text": "Modular API Endpoints: Each model (audio, image, video) is exposed via separate Flask endpoints.",
+    "style": "List Paragraph"
+  },
+  {
+    "index": 439,
+    "text": "Cloud Deployment: Hosted on AWS EC2 or Heroku with optional MongoDB integration.",
+    "style": "List Paragraph"
+  },
+  {
+    "index": 440,
+    "text": "",
+    "style": "List Paragraph"
+  },
+  {
+    "index": 441,
+    "text": "Frontend/Backend Sync: React interfaces with Flask endpoints to fetch and display results dynamically.",
+    "style": "List Paragraph"
+  },
+  {
+    "index": 442,
+    "text": "",
+    "style": "Body Text"
+  },
+  {
+    "index": 443,
+    "text": "PERFORMANCE OPTIMIZATION STRATEGIES",
+    "style": "Heading 2"
+  },
+  {
+    "index": 444,
+    "text": "The system incorporates several strategies for speed and efficiency:",
+    "style": "Body Text"
+  },
+  {
+    "index": 445,
+    "text": "Model Quantization: Reduces model size for faster inference.",
+    "style": "List Paragraph"
+  },
+  {
+    "index": 446,
+    "text": "Parallel Processing: Handles multiple requests using asynchronous workers.",
+    "style": "List Paragraph"
+  },
+  {
+    "index": 447,
+    "text": "Efficient I/O: Uses caching and lightweight file handling for uploads.",
+    "style": "List Paragraph"
+  },
+  {
+    "index": 448,
+    "text": "Modular Scaling: Services can be horizontally scaled based on load.",
+    "style": "List Paragraph"
+  },
+  {
+    "index": 449,
+    "text": "",
+    "style": "Body Text"
+  },
+  {
+    "index": 450,
+    "text": "SUMMARY",
+    "style": "Heading 2"
+  },
+  {
+    "index": 451,
+    "text": "",
+    "style": "Body Text"
+  },
+  {
+    "index": 452,
+    "text": "This chapter presented the architecture of the Deepfake Detection System, highlighting its modular components, end-to-end data flow, and optimized deployment strategies. The design ensures effective detection across media types while maintaining transparency and usability. In the following chapter, individual modules and algorithms will be explored in greater detail.",
+    "style": "Body Text"
+  },
+  {
+    "index": 453,
+    "text": "",
+    "style": "Body Text"
+  },
+  {
+    "index": 454,
+    "text": "CHAPTER 5 SYSTEM MODULES",
+    "style": "Heading 1"
+  },
+  {
+    "index": 455,
+    "text": "INTRODUCTION",
+    "style": "Heading 2"
+  },
+  {
+    "index": 456,
+    "text": "",
+    "style": "Body Text"
+  },
+  {
+    "index": 457,
+    "text": "The Deepfake Detection System is designed with a modular, scalable architecture for identifying manipulated media across audio, video, and image domains. The system leverages advanced deep learning models such as Vision Transformer (ViT), Wav2Vec 2.0, and Video Transformer Networks integrated with real-time interfaces to offer robust deepfake identification. This chapter outlines each module, demonstrating their roles and interconnections to provide accurate and explainable media forensics.",
+    "style": "Body Text"
+  },
+  {
+    "index": 458,
+    "text": "",
+    "style": "Body Text"
+  },
+  {
+    "index": 459,
+    "text": "OVERVIEW OF SYSTEM MODULES",
+    "style": "Heading 2"
+  },
+  {
+    "index": 460,
+    "text": "",
+    "style": "Body Text"
+  },
+  {
+    "index": 461,
+    "text": "This system consists of the following core modules:",
+    "style": "Body Text"
+  },
+  {
+    "index": 462,
+    "text": "",
+    "style": "Body Text"
+  },
+  {
+    "index": 463,
+    "text": "Media Acquisition Module",
+    "style": "List Paragraph"
+  },
+  {
+    "index": 464,
+    "text": "Preprocessing Module",
+    "style": "List Paragraph"
+  },
+  {
+    "index": 465,
+    "text": "Feature Extraction Module",
+    "style": "List Paragraph"
+  },
+  {
+    "index": 466,
+    "text": "Deep Learning Analysis Module",
+    "style": "List Paragraph"
+  },
+  {
+    "index": 467,
+    "text": "Inference & Explainability Module",
+    "style": "List Paragraph"
+  },
+  {
+    "index": 468,
+    "text": "Web Interface Module",
+    "style": "List Paragraph"
+  },
+  {
+    "index": 469,
+    "text": "Backend API & Logging Module",
+    "style": "List Paragraph"
+  },
+  {
+    "index": 470,
+    "text": "",
+    "style": "Body Text"
+  },
+  {
+    "index": 471,
+    "text": "MEDIA ACQUISITION MODULE",
+    "style": "Heading 2"
+  },
+  {
+    "index": 472,
+    "text": "",
+    "style": "Body Text"
+  },
+  {
+    "index": 473,
+    "text": "ROLE OF THE MODULE",
+    "style": "Heading 2"
+  },
+  {
+    "index": 474,
+    "text": "",
+    "style": "Body Text"
+  },
+  {
+    "index": 475,
+    "text": "The Media Acquisition Module is the entry point of the system that handles user- submitted files like videos (MP4), audio (MP3, WAV, FLAC), and images (JPG, PNG). It checks each file’s format and ensures it is valid before processing. The module also",
+    "style": "Body Text"
+  },
+  {
+    "index": 476,
+    "text": "",
+    "style": "Body Text"
+  },
+  {
+    "index": 477,
+    "text": "avoids duplicate uploads during the same session. It records basic information like upload time and file type. This step ensures the media is ready for accurate detection.",
+    "style": "Body Text"
+  },
+  {
+    "index": 478,
+    "text": "",
+    "style": "Body Text"
+  },
+  {
+    "index": 479,
+    "text": "PREPROCESSING MODULE",
+    "style": "Heading 2"
+  },
+  {
+    "index": 480,
+    "text": "",
+    "style": "Body Text"
+  },
+  {
+    "index": 481,
+    "text": "PURPOSE",
+    "style": "Heading 2"
+  },
+  {
+    "index": 482,
+    "text": "",
+    "style": "Body Text"
+  },
+  {
+    "index": 483,
+    "text": "The Preprocessing Module ensures that all input media whether audio, video, or image is standardized and cleaned before being analyzed. Media files often come with varying formats, resolutions, noise levels, and inconsistencies due to different recording conditions or devices. If not addressed, these variations can negatively impact the accuracy of the deepfake detection models. The module performs tasks such as resizing images, normalizing audio amplitude, trimming silent sections, and extracting consistent video frames. By preparing the data in a uniform and structured manner, the module enhances the system’s ability to accurately extract meaningful features and improves the overall reliability of the detection process.",
+    "style": "Body Text"
+  },
+  {
+    "index": 484,
+    "text": "KEY PREPROCESSING STEPS",
+    "style": "Heading 2"
+  },
+  {
+    "index": 485,
+    "text": "The preprocessing steps vary slightly depending on the type of media being processed, each tailored to ensure optimal input quality for feature extraction and deepfake detection.",
+    "style": "Body Text"
+  },
+  {
+    "index": 486,
+    "text": "Audio: The audio preprocessing begins with normalization, which adjusts the volume levels to a standard range, ensuring consistency across different recordings. Silence trimming is performed to remove unnecessary quiet sections that may skew analysis or introduce noise. The audio is then converted to the FLAC format if it is not already in that form, as FLAC preserves high-quality, lossless audio data suitable for detailed spectral analysis.",
+    "style": "List Paragraph"
+  },
+  {
+    "index": 487,
+    "text": "Video: For videos, preprocessing involves extracting a fixed number of frames at regular",
+    "style": "List Paragraph"
+  },
+  {
+    "index": 488,
+    "text": "",
+    "style": "List Paragraph"
+  },
+  {
+    "index": 489,
+    "text": "intervals to",
+    "style": "Body Text"
+  },
+  {
+    "index": 490,
+    "text": "ensure temporal consistency. These frames are then resized to a standard resolution, typically matching the input size required by the model (e.g., 299x299 for Xception), enabling uniformity and compatibility with the neural network architectures used for analysis.",
+    "style": "Body Text"
+  },
+  {
+    "index": 491,
+    "text": "Image: Uploaded images are resized to 384x384 pixels, the optimal input size for the Vision Transformer (ViT) model. This resizing ensures that every image fits the model's architecture, allowing for accurate attention mapping and deepfake classification.",
+    "style": "List Paragraph"
+  },
+  {
+    "index": 492,
+    "text": "Spectrogram Generation: For audio-based detection, the Short-Time Fourier Transform (STFT) is applied to convert the raw waveform into a spectrogram. This transformation reveals the time- frequency characteristics of the audio, enabling the model to detect unnatural patterns or anomalies that are often present in deepfake recordings. The spectrogram serves as a visual representation of the sound and is essential for identifying subtle artifacts introduced during synthetic audio generation.",
+    "style": "List Paragraph"
+  },
+  {
+    "index": 493,
+    "text": "",
+    "style": "Body Text"
+  },
+  {
+    "index": 494,
+    "text": "FEATURE EXTRACTION MODULE",
+    "style": "Heading 2"
+  },
+  {
+    "index": 495,
+    "text": "",
+    "style": "Body Text"
+  },
+  {
+    "index": 496,
+    "text": "PURPOSE",
+    "style": "Heading 2"
+  },
+  {
+    "index": 497,
+    "text": "",
+    "style": "Body Text"
+  },
+  {
+    "index": 498,
+    "text": "The Feature Extraction Module is responsible for identifying and isolating important characteristics from audio, image, and video data that may indicate signs of tampering. It captures subtle anomalies and irregular patterns that are often invisible to the human eye or ear but are typical in manipulated media. For audio, features like MFCCs, spectral contrast, and waveform patterns are extracted to detect unnatural frequency behavior. In images, the module focuses on pixel-level inconsistencies, lighting mismatches, and facial distortions using attention mechanisms from Vision Transformer (ViT) models. For",
+    "style": "Body Text"
+  },
+  {
+    "index": 499,
+    "text": "video, it extracts spatial features from individual frames using models like Xception and",
+    "style": "Body Text"
+  },
+  {
+    "index": 500,
+    "text": "",
+    "style": "Body Text"
+  },
+  {
+    "index": 501,
+    "text": "temporal patterns using transformer networks to spot inconsistencies in motion and timing. These features are critical for helping the deep learning models accurately classify the media as real or fake.",
+    "style": "Body Text"
+  },
+  {
+    "index": 502,
+    "text": "FEATURE EXTRACTION",
+    "style": "Heading 2"
+  },
+  {
+    "index": 503,
+    "text": "Audio: MFCCs, spectral contrast, STFT spectrograms",
+    "style": "List Paragraph"
+  },
+  {
+    "index": 504,
+    "text": "Image: Attention heatmaps via ViT",
+    "style": "List Paragraph"
+  },
+  {
+    "index": 505,
+    "text": "Video: Spatial features (Xception), temporal patterns (Transformer)",
+    "style": "List Paragraph"
+  },
+  {
+    "index": 506,
+    "text": "",
+    "style": "Body Text"
+  },
+  {
+    "index": 507,
+    "text": "",
+    "style": "Body Text"
+  },
+  {
+    "index": 508,
+    "text": "EMBEDDED FEATURE VECTORS FOR SIMILARITY COMPARISONS",
+    "style": "Heading 2"
+  },
+  {
+    "index": 509,
+    "text": "",
+    "style": "Body Text"
+  },
+  {
+    "index": 510,
+    "text": "Once features are extracted, they are encoded into compact numerical vectors. These vectors are used to measure similarity between media samples, aiding in tasks like identity verification and duplicate detection through metrics like Euclidean distance.",
+    "style": "Body Text"
+  },
+  {
+    "index": 511,
+    "text": "",
+    "style": "Body Text"
+  },
+  {
+    "index": 512,
+    "text": "PURPOSE",
+    "style": "Heading 2"
+  },
+  {
+    "index": 513,
+    "text": "Classifies inputs as real or fake using domain-specific models:",
+    "style": "Body Text"
+  },
+  {
+    "index": 514,
+    "text": "ViT (Image): Uses attention mechanisms for image classification",
+    "style": "List Paragraph"
+  },
+  {
+    "index": 515,
+    "text": "Wav2Vec 2.0 (Audio): Extracts audio features from raw waveforms",
+    "style": "List Paragraph"
+  },
+  {
+    "index": 516,
+    "text": "Xception + Transformer (Video): Combines spatial and temporal detection",
+    "style": "List Paragraph"
+  },
+  {
+    "index": 517,
+    "text": "",
+    "style": "Body Text"
+  },
+  {
+    "index": 518,
+    "text": "INFERENCE & EXPLAINABILITY MODULE",
+    "style": "Heading 2"
+  },
+  {
+    "index": 519,
+    "text": "",
+    "style": "Body Text"
+  },
+  {
+    "index": 520,
+    "text": "EXPLAINABILITY TECHNIQUES",
+    "style": "Heading 2"
+  },
+  {
+    "index": 521,
+    "text": "Image: Attention heatmaps",
+    "style": "List Paragraph"
+  },
+  {
+    "index": 522,
+    "text": "Audio: Spectral and MFCC visualizations",
+    "style": "List Paragraph"
+  },
+  {
+    "index": 523,
+    "text": "Video: Grad-CAM overlays and attention scores per frame",
+    "style": "List Paragraph"
+  },
+  {
+    "index": 524,
+    "text": "",
+    "style": "List Paragraph"
+  },
+  {
+    "index": 525,
+    "text": "WEB INTERFACE MODULE",
+    "style": "Heading 2"
+  },
+  {
+    "index": 526,
+    "text": "",
+    "style": "Body Text"
+  },
+  {
+    "index": 527,
+    "text": "The system supports multi-modal file uploads, allowing users to submit image, audio, or video files for deepfake detection. It provides real-time result display with confidence scoring, along with historical logs and visual interpretations to enhance user understanding. The frontend is built using React.js, while backend communication is handled through a Flask-based RESTful API. Visual outputs include heatmaps, graphs, and timelines for clear and explainable feedback.",
+    "style": "Body Text"
+  },
+  {
+    "index": 528,
+    "text": "",
+    "style": "Body Text"
+  },
+  {
+    "index": 529,
+    "text": "BACKEND API & LOGGING MODULE",
+    "style": "Heading 2"
+  },
+  {
+    "index": 530,
+    "text": "",
+    "style": "Body Text"
+  },
+  {
+    "index": 531,
+    "text": "Handles Data Flow and Detection Requests: The backend module manages the flow of media data from the frontend to the appropriate detection models and processes user requests.",
+    "style": "List Paragraph"
+  },
+  {
+    "index": 532,
+    "text": "Provides API Endpoints: RESTful APIs built with Flask enable the frontend to communicate with the system for tasks like media upload, initiating detection, and fetching results.",
+    "style": "List Paragraph"
+  },
+  {
+    "index": 533,
+    "text": "Embeds Feature Vectors for Duplication Checks: It generates and stores feature embeddings to detect and avoid repeated analysis of duplicate media within the same session.",
+    "style": "List Paragraph"
+  },
+  {
+    "index": 534,
+    "text": "Manages Detection Results and Metadata: The system logs results along with metadata such as file type, upload time, and prediction scores to maintain a complete processing history.",
+    "style": "List Paragraph"
+  },
+  {
+    "index": 535,
+    "text": "Generates Structured Reports: Based on detection logs, it creates downloadable, organized reports highlighting trends, deepfake probability, and analysis summaries.",
+    "style": "List Paragraph"
+  },
+  {
+    "index": 536,
+    "text": "Utilizes Secure Databases: Uses SQLite or NoSQL databases to store detection outcomes and session data securely, ensuring easy access and future retrieval.",
+    "style": "List Paragraph"
+  },
+  {
+    "index": 537,
+    "text": "",
+    "style": "List Paragraph"
+  },
+  {
+    "index": 538,
+    "text": "SUMMARY",
+    "style": "Heading 2"
+  },
+  {
+    "index": 539,
+    "text": "",
+    "style": "Body Text"
+  },
+  {
+    "index": 540,
+    "text": "This chapter detailed the architecture of the Deepfake Detection System, breaking it down into modular components that handle media acquisition, preprocessing, intelligent classification, and user interaction. By leveraging advanced models and real-time explainability tools, the system ensures robust performance across diverse media types. Future enhancements include real-time surveillance integration, mobile platform deployment, and stronger anti-spoofing measures.",
+    "style": "Body Text"
+  },
+  {
+    "index": 541,
+    "text": "",
+    "style": "Body Text"
+  },
+  {
+    "index": 542,
+    "text": "CHAPTER 6 IMPLEMENTATION",
+    "style": "Heading 1"
+  },
+  {
+    "index": 543,
+    "text": "INTRODUCTION",
+    "style": "Heading 2"
+  },
+  {
+    "index": 544,
+    "text": "",
+    "style": "Body Text"
+  },
+  {
+    "index": 545,
+    "text": "The implementation of the Deepfake Detection System follows a structured and modular pipeline designed to detect and analyze manipulated content across three primary media types: audio, video, and images. The system integrates advanced deep learning models, a user-friendly web interface, and a responsive backend to ensure accurate, real-time, and interpretable detection results. This chapter presents the detailed implementation steps, covering data preparation, model integration, backend services, frontend development, and deployment.",
+    "style": "Body Text"
+  },
+  {
+    "index": 546,
+    "text": "",
+    "style": "Body Text"
+  },
+  {
+    "index": 547,
+    "text": "IMPLEMENTATION WORKFLOW",
+    "style": "Heading 2"
+  },
+  {
+    "index": 548,
+    "text": "The development process comprises seven key stages:",
+    "style": "Body Text"
+  },
+  {
+    "index": 549,
+    "text": "",
+    "style": "Body Text"
+  },
+  {
+    "index": 550,
+    "text": "Data Acquisition & Preparation",
+    "style": "List Paragraph"
+  },
+  {
+    "index": 551,
+    "text": "Data Preprocessing",
+    "style": "List Paragraph"
+  },
+  {
+    "index": 552,
+    "text": "Feature Extraction",
+    "style": "List Paragraph"
+  },
+  {
+    "index": 553,
+    "text": "Model Training and Integration",
+    "style": "List Paragraph"
+  },
+  {
+    "index": 554,
+    "text": "Backend Development",
+    "style": "List Paragraph"
+  },
+  {
+    "index": 555,
+    "text": "Frontend Development",
+    "style": "List Paragraph"
+  },
+  {
+    "index": 556,
+    "text": "Deployment & Optimization",
+    "style": "List Paragraph"
+  },
+  {
+    "index": 557,
+    "text": "",
+    "style": "Body Text"
+  },
+  {
+    "index": 558,
+    "text": "",
+    "style": "Body Text"
+  },
+  {
+    "index": 559,
+    "text": "DATASET PREPARATION",
+    "style": "Heading 2"
+  },
+  {
+    "index": 560,
+    "text": "",
+    "style": "Body Text"
+  },
+  {
+    "index": 561,
+    "text": "The accuracy of any deepfake detection system hinges on the quality, diversity,",
+    "style": "Body Text"
+  },
+  {
+    "index": 562,
+    "text": "",
+    "style": "Body Text"
+  },
+  {
+    "index": 563,
+    "text": "and structure of the datasets it uses. In this system, multimodal datasets comprising audio, image, and video samples both genuine and manipulated form the foundation for training and evaluating the models. The data preparation phase involves sourcing, validating, organizing, and formatting these datasets to ensure compatibility with the system’s deep learning architectures.",
+    "style": "Body Text"
+  },
+  {
+    "index": 564,
+    "text": "Three separate pipelines are established to handle the unique requirements of each media type:",
+    "style": "Body Text"
+  },
+  {
+    "index": 565,
+    "text": "Audio Datasets include real and synthetic speech collected from open- source repositories and deepfake voice synthesis tools. All audio samples are converted to standardized formats and normalized to eliminate discrepancies.",
+    "style": "List Paragraph"
+  },
+  {
+    "index": 566,
+    "text": "Image Datasets are curated from well-known face forgery datasets like Celeb-DF and FaceForensics++. Images are preprocessed for uniformity in size, resolution, and color channels, and are aligned for facial region consistency.",
+    "style": "List Paragraph"
+  },
+  {
+    "index": 567,
+    "text": "Video Datasets consist of both authentic and tampered clips. Frames are extracted at regular intervals to ensure temporal consistency and are stored in an indexed structure to facilitate sequence-based processing.",
+    "style": "List Paragraph"
+  },
+  {
+    "index": 568,
+    "text": "To maintain balance across classes (real vs fake), each dataset undergoes stratified splitting, ensuring equal representation of labels during model training and evaluation. Preprocessed datasets are stored in a structured directory format and linked with metadata annotations such as class labels, timestamps, and media type, providing a robust and scalable foundation for feature extraction and model inference.",
+    "style": "Body Text"
+  },
+  {
+    "index": 569,
+    "text": "",
+    "style": "Body Text"
+  },
+  {
+    "index": 570,
+    "text": "DATASET COLLECTION",
+    "style": "Heading 2"
+  },
+  {
+    "index": 571,
+    "text": "",
+    "style": "Heading 2"
+  },
+  {
+    "index": 572,
+    "text": "The system requires a wide array of deepfake and real media samples:",
+    "style": "Body Text"
+  },
+  {
+    "index": 573,
+    "text": "Images: Sourced from datasets such as Celeb-DF and FaceForensics++.",
+    "style": "List Paragraph"
+  },
+  {
+    "index": 574,
+    "text": "",
+    "style": "Body Text"
+  },
+  {
+    "index": 575,
+    "text": "Videos: Includes deepfake videos manipulated through GANs and face- swapping algorithms.",
+    "style": "List Paragraph"
+  },
+  {
+    "index": 576,
+    "text": "Audio: Voice samples generated with AI impersonation tools and authentic voice recordings.",
+    "style": "List Paragraph"
+  },
+  {
+    "index": 577,
+    "text": "",
+    "style": "Body Text"
+  },
+  {
+    "index": 578,
+    "text": "DATA PROCESSING",
+    "style": "Heading 2"
+  },
+  {
+    "index": 579,
+    "text": "",
+    "style": "Body Text"
+  },
+  {
+    "index": 580,
+    "text": "Audio data requires careful handling due to variability in format, amplitude, and silence padding. The following steps are applied:",
+    "style": "Body Text"
+  },
+  {
+    "index": 581,
+    "text": "Format Validation (.wav, .flac, .mp3): Audio files are checked and, if necessary, converted to supported formats such as WAV or FLAC. This ensures compatibility with tools used for waveform processing and model input (e.g., Wav2Vec 2.0).",
+    "style": "List Paragraph"
+  },
+  {
+    "index": 582,
+    "text": "Amplitude Normalization: The amplitude of the audio waveform is adjusted to a consistent volume level. This eliminates discrepancies caused by different recording conditions or device settings and ensures uniform input intensity across all samples.",
+    "style": "List Paragraph"
+  },
+  {
+    "index": 583,
+    "text": "Silence Trimming: Unnecessary silence at the beginning or end of recordings is removed using energy thresholding or Voice Activity Detection (VAD). This reduces data redundancy and sharpens the focus on the actual speech signal.",
+    "style": "List Paragraph"
+  },
+  {
+    "index": 584,
+    "text": "Spectrogram Generation using STFT: The Short-Time Fourier Transform (STFT) is applied to convert time-domain waveforms into frequency-domain spectrograms. These spectrograms capture temporal and spectral features that are essential for identifying anomalies in deepfake audio.",
+    "style": "List Paragraph"
+  },
+  {
+    "index": 585,
+    "text": "Preprocessing image inputs ensures uniformity in spatial dimensions and color distribution, which is crucial for consistent feature extraction:",
+    "style": "Body Text"
+  },
+  {
+    "index": 586,
+    "text": "",
+    "style": "Body Text"
+  },
+  {
+    "index": 587,
+    "text": "Resizing to 384×384 Pixels: All images are resized to a fixed resolution of 384×384 pixels, which matches the expected input dimensions of the Vision Transformer (ViT-384). This standardization allows the model to process all inputs uniformly.",
+    "style": "List Paragraph"
+  },
+  {
+    "index": 588,
+    "text": "RGB Normalization: Pixel values are scaled (typically between 0 and 1 or normalized using ImageNet mean and standard deviation) to stabilize training and improve convergence. RGB normalization ensures consistent color interpretation across the dataset.",
+    "style": "List Paragraph"
+  },
+  {
+    "index": 589,
+    "text": "Face Alignment (if required): In cases where images contain misaligned or tilted faces, facial landmark detection is used to perform geometric corrections. This ensures that facial regions are consistently oriented, enhancing the model’s ability to detect subtle manipulations.",
+    "style": "List Paragraph"
+  },
+  {
+    "index": 590,
+    "text": "",
+    "style": "Body Text"
+  },
+  {
+    "index": 591,
+    "text": "Video preprocessing involves both temporal and spatial standardization to extract meaningful frame sequences:",
+    "style": "Body Text"
+  },
+  {
+    "index": 592,
+    "text": "Frame Extraction at Consistent Intervals: Videos are decomposed into frames at fixed time intervals (e.g., every 5 or 10 frames per second), capturing a representative sequence of events. This step is essential for analysing motion- related inconsistencies in deepfake videos.",
+    "style": "List Paragraph"
+  },
+  {
+    "index": 593,
+    "text": "Frame Resizing (e.g., 299×299 for Xception): Extracted frames are resized to match the input size expected by the Xception model. Consistent frame dimensions facilitate uniform feature extraction and reduce computational overhead.",
+    "style": "List Paragraph"
+  },
+  {
+    "index": 594,
+    "text": "Brightness Normalization: Variations in lighting conditions are mitigated by adjusting the brightness levels across all frames. Techniques like histogram equalization or contrast-limited adaptive histogram equalization (CLAHE) may be used to enhance visual consistency.",
+    "style": "List Paragraph"
+  },
+  {
+    "index": 595,
+    "text": "",
+    "style": "Body Text"
+  },
+  {
+    "index": 596,
+    "text": "FEATURE EXTRACTION",
+    "style": "Heading 2"
+  },
+  {
+    "index": 597,
+    "text": "",
+    "style": "Heading 2"
+  },
+  {
+    "index": 598,
+    "text": "PURPOSE OF FEATURE EXTRACTION",
+    "style": "Heading 2"
+  },
+  {
+    "index": 599,
+    "text": "",
+    "style": "Body Text"
+  },
+  {
+    "index": 600,
+    "text": "The primary purpose of feature extraction in the deepfake detection system is to distill complex, high- dimensional media data into meaningful, compact representations that can be effectively utilized by machine learning models. Rather than feeding raw images, audio, or video directly into classifiers, feature extraction transforms this data into structured numerical formats called feature vectors that highlight key characteristics indicative of manipulation.",
+    "style": "Body Text"
+  },
+  {
+    "index": 601,
+    "text": "For each media type, specific features are selected that are highly sensitive to the kinds of anomalies typically introduced during deepfake generation:",
+    "style": "Body Text"
+  },
+  {
+    "index": 602,
+    "text": "In audio, this includes distortions in frequency and rhythm patterns;",
+    "style": "List Paragraph"
+  },
+  {
+    "index": 603,
+    "text": "In images, visual inconsistencies such as unnatural textures or asymmetries in facial structure;",
+    "style": "List Paragraph"
+  },
+  {
+    "index": 604,
+    "text": "In videos, spatial and temporal artifacts like flickering, facial warping, or inconsistent lighting. By isolating these critical traits, the system ensures more accurate, efficient, and explainable classification. Moreover, these extracted features are integral to interpretability modules, enabling the system to visually or numerically justify its predictions a key requirement for responsible deployment in forensic and security applications. In essence, feature extraction serves as the foundation for high-performance, trustworthy deepfake detection across all media modalities.",
+    "style": "List Paragraph"
+  },
+  {
+    "index": 605,
+    "text": "KEY FEATURES EXTRACTED",
+    "style": "Heading 2"
+  },
+  {
+    "index": 606,
+    "text": "",
+    "style": "Body Text"
+  },
+  {
+    "index": 607,
+    "text": "Each media modality audio, image, and video requires the extraction of distinct and meaningful features that highlight manipulation artifacts. These features are specifically chosen for their ability to capture the subtle discrepancies introduced by generative models in deepfake content. Below is a breakdown of the key features extracted from each media type:",
+    "style": "Body Text"
+  },
+  {
+    "index": 608,
+    "text": "",
+    "style": "Body Text"
+  },
+  {
+    "index": 609,
+    "text": "Audio Features:",
+    "style": "Body Text"
+  },
+  {
+    "index": 610,
+    "text": "Mel-Frequency Cepstral Coefficients (MFCCs): Represent the short-term power spectrum of audio signals. Variations in MFCCs can reveal inconsistencies in vocal tone, articulation, or intonation common artifacts in synthesized speech.",
+    "style": "List Paragraph"
+  },
+  {
+    "index": 611,
+    "text": "Spectral Contrast: Measures the contrast between peaks and valleys in different frequency bands. Synthetic voices often lack the natural dynamic range found in human speech, making this a useful indicator of manipulation.",
+    "style": "List Paragraph"
+  },
+  {
+    "index": 612,
+    "text": "STFT-Based Spectrograms: Visual representations of the frequency spectrum over time. Deepfake audio often exhibits unnatural spectral patterns, which can be visualized and interpreted through these spectrograms.",
+    "style": "List Paragraph"
+  },
+  {
+    "index": 613,
+    "text": "",
+    "style": "Body Text"
+  },
+  {
+    "index": 614,
+    "text": "Image Features:",
+    "style": "Body Text"
+  },
+  {
+    "index": 615,
+    "text": "Vision Transformer Embedding Vectors: High-dimensional vectors derived from intermediate transformer layers that encode detailed spatial information about facial structure, texture, and expression.",
+    "style": "List Paragraph"
+  },
+  {
+    "index": 616,
+    "text": "Attention Heatmaps: Self-attention visualizations from the Vision Transformer (ViT) that highlight specific facial regions influencing classification typically revealing areas where artifacts are present, such as eyes, lips, or facial boundaries.",
+    "style": "List Paragraph"
+  },
+  {
+    "index": 617,
+    "text": "",
+    "style": "Body Text"
+  },
+  {
+    "index": 618,
+    "text": "Video Features",
+    "style": "Body Text"
+  },
+  {
+    "index": 619,
+    "text": "Spatial Features (via Xception Network): Per-frame features capturing fine- grained facial",
+    "style": "List Paragraph"
+  },
+  {
+    "index": 620,
+    "text": "details, lighting inconsistencies, and texture artifacts. These are crucial for detecting visual manipulations on a frame-by-frame basis.",
+    "style": "Body Text"
+  },
+  {
+    "index": 621,
+    "text": "Temporal Features (via Transformer): Sequence-level features that model the progression of frames over time. These capture unnatural transitions, jitter, frame interpolation, or irregular facial motion all signs of temporal inconsistency in",
+    "style": "List Paragraph"
+  },
+  {
+    "index": 622,
+    "text": "",
+    "style": "List Paragraph"
+  },
+  {
+    "index": 623,
+    "text": "deepfakes.",
+    "style": "Body Text"
+  },
+  {
+    "index": 624,
+    "text": "",
+    "style": "Body Text"
+  },
+  {
+    "index": 625,
+    "text": "Attention Scores and Grad-CAM Visualizations: Quantitative and visual indicators of which frames or regions within frames were most influential in detecting manipulations. These tools provide explainability and aid in understanding the system’s decision-making process.",
+    "style": "List Paragraph"
+  },
+  {
+    "index": 626,
+    "text": "MODEL TRAINING",
+    "style": "Heading 2"
+  },
+  {
+    "index": 627,
+    "text": "",
+    "style": "Body Text"
+  },
+  {
+    "index": 628,
+    "text": "MODELS USED",
+    "style": "Heading 2"
+  },
+  {
+    "index": 629,
+    "text": "",
+    "style": "Body Text"
+  },
+  {
+    "index": 630,
+    "text": "Vision Transformer (ViT-384) – Classifies manipulated face images using attention-based patch learning.",
+    "style": "List Paragraph"
+  },
+  {
+    "index": 631,
+    "text": "Xception Network – Extracts spatial features from video frames.",
+    "style": "List Paragraph"
+  },
+  {
+    "index": 632,
+    "text": "",
+    "style": "Body Text"
+  },
+  {
+    "index": 633,
+    "text": "Video Transformer – Captures temporal inconsistencies in manipulated video sequences.",
+    "style": "List Paragraph"
+  },
+  {
+    "index": 634,
+    "text": "",
+    "style": "Body Text"
+  },
+  {
+    "index": 635,
+    "text": "Wav2Vec 2.0 – Classifies voice samples as authentic or synthetic using raw waveform representation.",
+    "style": "List Paragraph"
+  },
+  {
+    "index": 636,
+    "text": "TRAINING ENVIRONMENT",
+    "style": "Heading 2"
+  },
+  {
+    "index": 637,
+    "text": "",
+    "style": "Body Text"
+  },
+  {
+    "index": 638,
+    "text": "GPU: NVIDIA RTX 3500",
+    "style": "List Paragraph"
+  },
+  {
+    "index": 639,
+    "text": "Loss Function: Cross-Entropy",
+    "style": "List Paragraph"
+  },
+  {
+    "index": 640,
+    "text": "Optimizer: Adam",
+    "style": "List Paragraph"
+  },
+  {
+    "index": 641,
+    "text": "Batch Size: 32",
+    "style": "List Paragraph"
+  },
+  {
+    "index": 642,
+    "text": "Epochs: 50",
+    "style": "List Paragraph"
+  },
+  {
+    "index": 643,
+    "text": "Validation Split: 10%",
+    "style": "List Paragraph"
+  },
+  {
+    "index": 644,
+    "text": "Data Augmentation: Time-warping, noise injection, and compression artifacts for robustness.",
+    "style": "List Paragraph"
+  },
+  {
+    "index": 645,
+    "text": "",
+    "style": "List Paragraph"
+  },
+  {
+    "index": 646,
+    "text": "MODEL TRAINING PROCESS",
+    "style": "Heading 2"
+  },
+  {
+    "index": 647,
+    "text": "The model training process is carefully designed to ensure optimal performance, robustness, and generalizability across all three media modalities audio, image, and video. Each model is trained on domain-specific features, using a combination of fine- tuning, data augmentation, and performance optimization strategies to effectively learn patterns that distinguish authentic from manipulated content.",
+    "style": "Body Text"
+  },
+  {
+    "index": 648,
+    "text": "To begin with, the preprocessed and labeled datasets are split into training (80%), validation (10%), and test (10%) subsets, ensuring balanced representation of both real and fake classes. For image and video models, pre-trained weights (e.g., from ImageNet or Celeb-DF benchmarks) are used as a starting point, followed by fine-tuning on the custom dataset. For audio, the Wav2Vec 2.0 model is adapted using transfer learning, where the final classification head is retrained on labeled real vs fake voice clips.",
+    "style": "Body Text"
+  },
+  {
+    "index": 649,
+    "text": "To improve generalization, extensive data augmentation techniques are applied:",
+    "style": "List Paragraph"
+  },
+  {
+    "index": 650,
+    "text": "",
+    "style": "Body Text"
+  },
+  {
+    "index": 651,
+    "text": "Images undergo random cropping, flipping, noise injection, and brightness/contrast adjustments.",
+    "style": "List Paragraph"
+  },
+  {
+    "index": 652,
+    "text": "",
+    "style": "Body Text"
+  },
+  {
+    "index": 653,
+    "text": "Video frames are subjected to frame shuffling, motion blur, and compression artifacts.",
+    "style": "List Paragraph"
+  },
+  {
+    "index": 654,
+    "text": "",
+    "style": "Body Text"
+  },
+  {
+    "index": 655,
+    "text": "Audio clips are augmented using time-stretching, pitch shifting,and background noise insertion.",
+    "style": "List Paragraph"
+  },
+  {
+    "index": 656,
+    "text": "Hyperparameter tuning is conducted via grid search on parameters such as learning rate, dropout rate, batch size, and number of transformer layers. The Adam optimizer with an adaptive learning rate is used, and categorical cross-entropy is employed as the loss function for classification tasks.",
+    "style": "Body Text"
+  },
+  {
+    "index": 657,
+    "text": "An early stopping mechanism is integrated to halt training when validation loss stops improving, thereby preventing overfitting. Model checkpoints are saved based on the highest validation accuracy. After training, each model is evaluated on the test set using",
+    "style": "Body Text"
+  },
+  {
+    "index": 658,
+    "text": "",
+    "style": "Body Text"
+  },
+  {
+    "index": 659,
+    "text": "accuracy, precision, recall, and F1-score. Frame- level predictions for videos and region- level attention maps for images are also analyzed qualitatively to validate interpretability.",
+    "style": "Body Text"
+  },
+  {
+    "index": 660,
+    "text": "This multi-modal, fine-tuned training strategy ensures that each model learns to recognize both low-level artifacts and high-level semantic inconsistencies, resulting in a high- performing and explainable deepfake detection system.",
+    "style": "Body Text"
+  },
+  {
+    "index": 661,
+    "text": "BACKEND DEVELOPMENT",
+    "style": "Heading 2"
+  },
+  {
+    "index": 662,
+    "text": "",
+    "style": "Body Text"
+  },
+  {
+    "index": 663,
+    "text": "API ENDPOINT",
+    "style": "Heading 2"
+  },
+  {
+    "index": 664,
+    "text": "",
+    "style": "Body Text"
+  },
+  {
+    "index": 665,
+    "text": "POST /detect/image: Accepts images and returns classification and heatmaps.",
+    "style": "List Paragraph"
+  },
+  {
+    "index": 666,
+    "text": "POST /detect/video: Accepts video, extracts frame, returns predictions per frame and overall classification.",
+    "style": "List Paragraph"
+  },
+  {
+    "index": 667,
+    "text": "POST /detect/audio: Accepts audio, returns deepfake probability and spectrogram analysis.",
+    "style": "List Paragraph"
+  },
+  {
+    "index": 668,
+    "text": "GET /logs: Returns historical detection records.",
+    "style": "List Paragraph"
+  },
+  {
+    "index": 669,
+    "text": "GET /report: Generates structured downloadable PDF reports.",
+    "style": "List Paragraph"
+  },
+  {
+    "index": 670,
+    "text": "",
+    "style": "Body Text"
+  },
+  {
+    "index": 671,
+    "text": "",
+    "style": "Body Text"
+  },
+  {
+    "index": 672,
+    "text": "FRONTEND DEVELOPMENT",
+    "style": "Heading 2"
+  },
+  {
+    "index": 673,
+    "text": "",
+    "style": "Body Text"
+  },
+  {
+    "index": 674,
+    "text": "USER INTERFACE",
+    "style": "Heading 2"
+  },
+  {
+    "index": 675,
+    "text": "",
+    "style": "Body Text"
+  },
+  {
+    "index": 676,
+    "text": "Media upload (drag-and-drop or file select)",
+    "style": "List Paragraph"
+  },
+  {
+    "index": 677,
+    "text": "Real-time prediction feedback",
+    "style": "List Paragraph"
+  },
+  {
+    "index": 678,
+    "text": "Display of confidence scores, attention maps, and visual cues",
+    "style": "List Paragraph"
+  },
+  {
+    "index": 679,
+    "text": "Filtering tools for session-based and time-based log analysis",
+    "style": "List Paragraph"
+  },
+  {
+    "index": 680,
+    "text": "The system is deployed on a cloud-based infrastructure to ensure scalability.",
+    "style": "List Paragraph"
+  },
+  {
+    "index": 681,
+    "text": "",
+    "style": "List Paragraph"
+  },
+  {
+    "index": 682,
+    "text": "VISUALIZATION TOOLS",
+    "style": "Heading 2"
+  },
+  {
+    "index": 683,
+    "text": "",
+    "style": "Body Text"
+  },
+  {
+    "index": 684,
+    "text": "Heatmaps using Grad-CAM and attention overlays.",
+    "style": "List Paragraph"
+  },
+  {
+    "index": 685,
+    "text": "Spectrogram plots, frequency bands, and waveform visualizations.",
+    "style": "List Paragraph"
+  },
+  {
+    "index": 686,
+    "text": "Frame-wise prediction timeline and attention overlays.",
+    "style": "List Paragraph"
+  },
+  {
+    "index": 687,
+    "text": "",
+    "style": "Body Text"
+  },
+  {
+    "index": 688,
+    "text": "DEPLOYMENT AND OPTIMIZATION",
+    "style": "Heading 2"
+  },
+  {
+    "index": 689,
+    "text": "",
+    "style": "Body Text"
+  },
+  {
+    "index": 690,
+    "text": "The Flask-based backend is deployed on an AWS EC2 instance to ensure a reliable and scalable environment for model inference and media processing.",
+    "style": "List Paragraph"
+  },
+  {
+    "index": 691,
+    "text": "The React frontend is hosted on cloud platforms like Vercel or Netlify, offering fast, serverless access and responsive user experience.",
+    "style": "List Paragraph"
+  },
+  {
+    "index": 692,
+    "text": "All logs, detection outcomes, and user reports are stored in MongoDB Atlas, providing a flexible, cloud-native database solution.",
+    "style": "List Paragraph"
+  },
+  {
+    "index": 693,
+    "text": "Model quantization is applied to reduce the size of deep learning models, resulting in faster inference without compromising accuracy.",
+    "style": "List Paragraph"
+  },
+  {
+    "index": 694,
+    "text": "Asynchronous processing is implemented to handle multiple concurrent media detection tasks, enabling real-time responsiveness.",
+    "style": "List Paragraph"
+  },
+  {
+    "index": 695,
+    "text": "GPU acceleration is utilized in the backend infrastructure to speed up intensive computations during image, video, and audio analysis.",
+    "style": "List Paragraph"
+  },
+  {
+    "index": 696,
+    "text": "",
+    "style": "Body Text"
+  },
+  {
+    "index": 697,
+    "text": "SUMMARY",
+    "style": "Heading 2"
+  },
+  {
+    "index": 698,
+    "text": "",
+    "style": "Body Text"
+  },
+  {
+    "index": 699,
+    "text": "This chapter has outlined the comprehensive implementation pipeline for the Deepfake Detection System,  detailing  the  ingestion and  preprocessing of  multimodal data,",
+    "style": "Body Text"
+  },
+  {
+    "index": 700,
+    "text": "including image, audio, and video inputs. It further describes the integration of",
+    "style": "Body Text"
+  },
+  {
+    "index": 701,
+    "text": "",
+    "style": "Body Text"
+  },
+  {
+    "index": 702,
+    "text": "specialized models for each modality to perform accurate classification. The system's architecture supports real-time backend logic and a responsive frontend user interface, ensuring seamless user interaction. Additionally, the design enables scalable and optimized deployment on cloud platforms, supporting high performance and accessibility across diverse environments.",
+    "style": "Body Text"
+  },
+  {
+    "index": 703,
+    "text": "",
+    "style": "Body Text"
+  },
+  {
+    "index": 704,
+    "text": "CHAPTER 7 RESULTS AND DISCUSSION",
+    "style": "Heading 1"
+  },
+  {
+    "index": 705,
+    "text": "INTRODUCTION",
+    "style": "Heading 2"
+  },
+  {
+    "index": 706,
+    "text": "",
+    "style": "Body Text"
+  },
+  {
+    "index": 707,
+    "text": "This section presents an evaluation of the proposed deepfake detection system across three major media domains: video, image, and audio. Through a series of real-time interface screenshots and model output visualizations, the authors demonstrate the practical implementation and effectiveness of their system. The system's ability to accurately classify content as real or fake is supported by confidence scores, interpretability features such as heatmaps and spectral analysis, and clear visual outputs. The discussion explores the implications of these results in practical scenarios, highlighting the usability and robustness of the multi-modal detection framework.",
+    "style": "Body Text"
+  },
+  {
+    "index": 708,
+    "text": "",
+    "style": "Body Text"
+  },
+  {
+    "index": 709,
+    "text": "EXPERIMENTAL SETUP",
+    "style": "Heading 2"
+  },
+  {
+    "index": 710,
+    "text": "",
+    "style": "Body Text"
+  },
+  {
+    "index": 711,
+    "text": "HARDWARE AND SOFTWARE ENVIRONMENT",
+    "style": "Heading 2"
+  },
+  {
+    "index": 712,
+    "text": "",
+    "style": "Body Text"
+  },
+  {
+    "index": 713,
+    "text": "Hardware:",
+    "style": "Normal"
+  },
+  {
+    "index": 714,
+    "text": "Processor: Intel Core i7 / AMD Ryzen 7 GPU: NVIDIA RTX 3060",
+    "style": "Body Text"
+  },
+  {
+    "index": 715,
+    "text": "RAM: 16GB+",
+    "style": "Body Text"
+  },
+  {
+    "index": 716,
+    "text": "Storage: SSD with at least 512GB",
+    "style": "Body Text"
+  },
+  {
+    "index": 717,
+    "text": "Software:",
+    "style": "Heading 2"
+  },
+  {
+    "index": 718,
+    "text": "Deep Learning Framework: Pytorch,Tranformers,OpenCV,Numpy,Matplotlib,Scipy Backend: Flask API",
+    "style": "Body Text"
+  },
+  {
+    "index": 719,
+    "text": "",
+    "style": "Body Text"
+  },
+  {
+    "index": 720,
+    "text": "Frontend: React",
+    "style": "Body Text"
+  },
+  {
+    "index": 721,
+    "text": "",
+    "style": "Body Text"
+  },
+  {
+    "index": 722,
+    "text": "",
+    "style": "Body Text"
+  },
+  {
+    "index": 723,
+    "text": "DATASET CONFIGURATION",
+    "style": "Heading 2"
+  },
+  {
+    "index": 724,
+    "text": "Media Types",
+    "style": "Body Text"
+  },
+  {
+    "index": 725,
+    "text": "",
+    "style": "Body Text"
+  },
+  {
+    "index": 726,
+    "text": "Audio: Real and synthetic voice clips (.wav, .mp3, .flac)",
+    "style": "List Paragraph"
+  },
+  {
+    "index": 727,
+    "text": "Images: Authentic and manipulated facial images",
+    "style": "List Paragraph"
+  },
+  {
+    "index": 728,
+    "text": "Videos: Clips containing real or deepfake-generated facesData Usage",
+    "style": "List Paragraph"
+  },
+  {
+    "index": 729,
+    "text": "Training: 70%",
+    "style": "List Paragraph"
+  },
+  {
+    "index": 730,
+    "text": "Validation: 15%",
+    "style": "List Paragraph"
+  },
+  {
+    "index": 731,
+    "text": "Testing: 15%",
+    "style": "List Paragraph"
+  },
+  {
+    "index": 732,
+    "text": "",
+    "style": "Body Text"
+  },
+  {
+    "index": 733,
+    "text": "PERFORMANCE EVALUATION",
+    "style": "Heading 2"
+  },
+  {
+    "index": 734,
+    "text": "Evaluation is based on qualitative results and explainability outputs, as quantitative accuracy values are not explicitly presented in the source.",
+    "style": "Body Text"
+  },
+  {
+    "index": 735,
+    "text": "",
+    "style": "Body Text"
+  },
+  {
+    "index": 736,
+    "text": "PERFORMANCE METRICS OF INDIVIDUAL MODELS TABLE 7.1. RESULTS OF INDIVIDUAL MODELS",
+    "style": "Heading 2"
+  },
+  {
+    "index": 737,
+    "text": "",
+    "style": "Table Paragraph"
+  },
+  {
+    "index": 738,
+    "text": "PERFORMANCE OF THE ENSEMBLE MODEL",
+    "style": "Heading 2"
+  },
+  {
+    "index": 739,
+    "text": "",
+    "style": "Body Text"
+  },
+  {
+    "index": 740,
+    "text": "The ensemble model integrates the outputs of three specialized sub-models Wav2Vec 2.0 (for audio), ViT-384 (for images), and Xception + Video Transformer (for video). This multi-branch architecture allows decision fusion across modalities, improving overall classification robustness. A simple majority voting strategy is used where at least two out of three models must agree to label content as \"fake\" or \"real.\" When only one modality is available (e.g., only audio), the individual model output is used directly.",
+    "style": "Body Text"
+  },
+  {
+    "index": 741,
+    "text": "",
+    "style": "Body Text"
+  },
+  {
+    "index": 742,
+    "text": "TABLE 7.2. RESULTS OF ENSEMBLE MODEL",
+    "style": "Heading 2"
+  },
+  {
+    "index": 743,
+    "text": "",
+    "style": "Body Text"
+  },
+  {
+    "index": 744,
+    "text": "The ensemble approach improves classification accuracy by approximately 1–3%, highlighting the advantage of combining multiple models.",
+    "style": "Body Text"
+  },
+  {
+    "index": 745,
+    "text": "",
+    "style": "Body Text"
+  },
+  {
+    "index": 746,
+    "text": "COMPARATIVE ANALYSIS",
+    "style": "Heading 2"
+  },
+  {
+    "index": 747,
+    "text": "The\tproposed\tmulti-modal\tsystem\tis\tbenchmarked\tagainst\ttypical\tsingle-media approaches in deepfake detection.",
+    "style": "Body Text"
+  },
+  {
+    "index": 748,
+    "text": "TABLE 7.3. COMPARISON OF VIDEO DEEPFAKE DETECTION MODELS",
+    "style": "Normal"
+  },
+  {
+    "index": 749,
+    "text": "",
+    "style": "Body Text"
+  },
+  {
+    "index": 750,
+    "text": "",
+    "style": "Table Paragraph"
+  },
+  {
+    "index": 751,
+    "text": "",
+    "style": "Body Text"
+  },
+  {
+    "index": 752,
+    "text": "TABLE 7.4. COMPARISON OF IMAGE DEEPFAKE DETECTION MODELS",
+    "style": "Normal"
+  },
+  {
+    "index": 753,
+    "text": "",
+    "style": "Body Text"
+  },
+  {
+    "index": 754,
+    "text": "",
+    "style": "Body Text"
+  },
+  {
+    "index": 755,
+    "text": "TABLE 7.5. COMPARISON OF AUDIO DEEPFAKE DETECTION MODELS",
+    "style": "Normal"
+  },
+  {
+    "index": 756,
+    "text": "",
+    "style": "Body Text"
+  },
+  {
+    "index": 757,
+    "text": "",
+    "style": "Body Text"
+  },
+  {
+    "index": 758,
+    "text": "",
+    "style": "Body Text"
+  },
+  {
+    "index": 759,
+    "text": "EXPERIMENTAL ANALYSIS",
+    "style": "List Paragraph"
+  },
+  {
+    "index": 760,
+    "text": "",
+    "style": "Body Text"
+  },
+  {
+    "index": 761,
+    "text": "SOURCE CODE",
+    "style": "Heading 2"
+  },
+  {
+    "index": 762,
+    "text": "",
+    "style": "Heading 2"
+  },
+  {
+    "index": 763,
+    "text": "app.py",
+    "style": "Normal"
+  },
+  {
+    "index": 764,
+    "text": "from flask import Flask, request, jsonify from flask_cors import CORS",
+    "style": "Body Text"
+  },
+  {
+    "index": 765,
+    "text": "from werkzeug.utils import secure_filename import requests",
+    "style": "Body Text"
+  },
+  {
+    "index": 766,
+    "text": "import os import io",
+    "style": "Body Text"
+  },
+  {
+    "index": 767,
+    "text": "import librosa.display import torch",
+    "style": "Body Text"
+  },
+  {
+    "index": 768,
+    "text": "import torchvision.transforms as transforms import timm",
+    "style": "Body Text"
+  },
+  {
+    "index": 769,
+    "text": "import numpy as np import cv2",
+    "style": "Body Text"
+  },
+  {
+    "index": 770,
+    "text": "from PIL import Image import warnings import librosa",
+    "style": "Body Text"
+  },
+  {
+    "index": 771,
+    "text": "import matplotlib matplotlib.use('Agg')",
+    "style": "Body Text"
+  },
+  {
+    "index": 772,
+    "text": "import matplotlib.pyplot as plt import base64",
+    "style": "Body Text"
+  },
+  {
+    "index": 773,
+    "text": "import logging import soundfile as sf import subprocess",
+    "style": "Body Text"
+  },
+  {
+    "index": 774,
+    "text": "from PIL import Image",
+    "style": "Body Text"
+  },
+  {
+    "index": 775,
+    "text": "from transformers import AutoImageProcessor, AutoModelForImageClassification, pipeline,VideoMAEForVideoClassification, AutoProcessor",
+    "style": "Body Text"
+  },
+  {
+    "index": 776,
+    "text": "import torch.nn as nn import scipy.stats as stats",
+    "style": "Body Text"
+  },
+  {
+    "index": 777,
+    "text": "from pydub.utils import which",
+    "style": "Body Text"
+  },
+  {
+    "index": 778,
+    "text": "from captum.attr import IntegratedGradients, GuidedBackprop, Occlusion import torch.nn.functional as F",
+    "style": "Body Text"
+  },
+  {
+    "index": 779,
+    "text": "import math",
+    "style": "Body Text"
+  },
+  {
+    "index": 780,
+    "text": "ffmpeg_path = r\"D:\\ffmpeg\\bin\" # Change this if your path is different os.environ[\"PATH\"] += os.pathsep + ffmpeg_path",
+    "style": "Body Text"
+  },
+  {
+    "index": 781,
+    "text": "# Suppress warnings warnings.filterwarnings(\"ignore\")",
+    "style": "Body Text"
+  },
+  {
+    "index": 782,
+    "text": "# Import deepfake detection functions from ok.py from ok import (",
+    "style": "Body Text"
+  },
+  {
+    "index": 783,
+    "text": "load_xception_models,",
+    "style": "Body Text"
+  },
+  {
+    "index": 784,
+    "text": "",
+    "style": "Body Text"
+  },
+  {
+    "index": 785,
+    "text": "VideoTransformer, detect_deepfake, xception_model_paths, extract_frames, display_frames, extract_combined_features, visualize_frame_attributions, visualize_attention_weights,",
+    "style": "Body Text"
+  },
+  {
+    "index": 786,
+    "text": "compute_simple_frame_importance",
+    "style": "Body Text"
+  },
+  {
+    "index": 787,
+    "text": ")",
+    "style": "Normal"
+  },
+  {
+    "index": 788,
+    "text": "app = Flask(\tname\t) CORS(app)",
+    "style": "Body Text"
+  },
+  {
+    "index": 789,
+    "text": "# Configuration",
+    "style": "Body Text"
+  },
+  {
+    "index": 790,
+    "text": "OUTPUT_DIR = os.path.join(os.getcwd(), \"deepfake_analysis_output\") UPLOAD_FOLDER = \"uploads\"",
+    "style": "Body Text"
+  },
+  {
+    "index": 791,
+    "text": "ALLOWED_EXTENSIONS = {'mp4', 'avi', 'mov', 'mkv', 'png', 'jpg', 'jpeg'} MAX_CONTENT_LENGTH = 100 * 1024 * 1024 # 100MB app.config['UPLOAD_FOLDER'] = UPLOAD_FOLDER app.config['MAX_CONTENT_LENGTH'] = MAX_CONTENT_LENGTH",
+    "style": "Body Text"
+  },
+  {
+    "index": 792,
+    "text": "# Create required directories os.makedirs(OUTPUT_DIR, exist_ok=True) os.makedirs(UPLOAD_FOLDER, exist_ok=True) # Initialize the audio classification pipeline",
+    "style": "Body Text"
+  },
+  {
+    "index": 793,
+    "text": "# Video processing configuration VIDEO_CONFIG = {",
+    "style": "Body Text"
+  },
+  {
+    "index": 794,
+    "text": "'frame_count': 10,",
+    "style": "Body Text"
+  },
+  {
+    "index": 795,
+    "text": "'min_frame_interval': 5,",
+    "style": "Body Text"
+  },
+  {
+    "index": 796,
+    "text": "'target_size': (299, 299),",
+    "style": "Body Text"
+  },
+  {
+    "index": 797,
+    "text": "'xception_size': (299, 299), # Add this",
+    "style": "Body Text"
+  },
+  {
+    "index": 798,
+    "text": "'videomae_size': (224, 224)\t# Add this (typical size for VideoMAE)",
+    "style": "Body Text"
+  },
+  {
+    "index": 799,
+    "text": "}",
+    "style": "Normal"
+  },
+  {
+    "index": 800,
+    "text": "# Initialize device",
+    "style": "Body Text"
+  },
+  {
+    "index": 801,
+    "text": "device = torch.device(\"cuda\" if torch.cuda.is_available() else \"cpu\") # Load the VideoMAE model for deepfake detection",
+    "style": "Body Text"
+  },
+  {
+    "index": 802,
+    "text": "def load_videomae_model(): print(\"Loading VideoMAE model...\")",
+    "style": "Body Text"
+  },
+  {
+    "index": 803,
+    "text": "processor = AutoProcessor.from_pretrained(\"Ammar2k/videomae-base-finetuned- deepfake-subset\")",
+    "style": "Body Text"
+  },
+  {
+    "index": 804,
+    "text": "model = VideoMAEForVideoClassification.from_pretrained(\"Ammar2k/videomae-base- finetuned-deepfake-subset\")",
+    "style": "Body Text"
+  },
+  {
+    "index": 805,
+    "text": "model.eval()",
+    "style": "Body Text"
+  },
+  {
+    "index": 806,
+    "text": "",
+    "style": "Body Text"
+  },
+  {
+    "index": 807,
+    "text": "return processor, model.to(device) # Load Xception models print(\"Loading Xception models...\")",
+    "style": "Body Text"
+  },
+  {
+    "index": 808,
+    "text": "xception_models = load_xception_models(xception_model_paths) if not xception_models:",
+    "style": "Body Text"
+  },
+  {
+    "index": 809,
+    "text": "raise RuntimeError(\"Failed to load any Xception models. Check model paths.\") # Initialize the VideoMAE model",
+    "style": "Body Text"
+  },
+  {
+    "index": 810,
+    "text": "videomae_processor, videomae_model = load_videomae_model() # Load image detection model",
+    "style": "Body Text"
+  },
+  {
+    "index": 811,
+    "text": "processor = AutoImageProcessor.from_pretrained(\"Skullly/DeepFake-image-detection-ViT- 384\")",
+    "style": "Body Text"
+  },
+  {
+    "index": 812,
+    "text": "image_model = AutoModelForImageClassification.from_pretrained(\"Skullly/DeepFake- image-detection-ViT-384\")",
+    "style": "Body Text"
+  },
+  {
+    "index": 813,
+    "text": "image_model.eval()",
+    "style": "Body Text"
+  },
+  {
+    "index": 814,
+    "text": "image_labels = {0: \"real\", 1: \"fake\"} def cleanup_files(*paths):",
+    "style": "Body Text"
+  },
+  {
+    "index": 815,
+    "text": "\"\"\"Clean up temporary files\"\"\" for path in paths:",
+    "style": "Body Text"
+  },
+  {
+    "index": 816,
+    "text": "if path and os.path.exists(path): try:",
+    "style": "Body Text"
+  },
+  {
+    "index": 817,
+    "text": "os.remove(path) except Exception as e:",
+    "style": "Body Text"
+  },
+  {
+    "index": 818,
+    "text": "print(f\"Error cleaning up {path}: {e}\") def convert_to_flac(input_path):",
+    "style": "Body Text"
+  },
+  {
+    "index": 819,
+    "text": "\"\"\"Convert audio file to FLAC format\"\"\" filename = os.path.basename(input_path) base_filename = os.path.splitext(filename)[0]",
+    "style": "Body Text"
+  },
+  {
+    "index": 820,
+    "text": "flac_path = os.path.join(UPLOAD_FOLDER, f\"{base_filename}.flac\") try:",
+    "style": "Body Text"
+  },
+  {
+    "index": 821,
+    "text": "# This will use the ffmpeg available in your PATH subprocess.run([",
+    "style": "Body Text"
+  },
+  {
+    "index": 822,
+    "text": "'ffmpeg',",
+    "style": "Body Text"
+  },
+  {
+    "index": 823,
+    "text": "'-i', input_path, '-c:a', 'flac',",
+    "style": "Body Text"
+  },
+  {
+    "index": 824,
+    "text": "'-y',",
+    "style": "Body Text"
+  },
+  {
+    "index": 825,
+    "text": "flac_path",
+    "style": "Body Text"
+  },
+  {
+    "index": 826,
+    "text": "], check=True, capture_output=True) return flac_path",
+    "style": "Body Text"
+  },
+  {
+    "index": 827,
+    "text": "except subprocess.CalledProcessError as e: print(f\"Conversion error: {e.stderr.decode()}\")",
+    "style": "Body Text"
+  },
+  {
+    "index": 828,
+    "text": "raise RuntimeError(f\"Failed to convert audio: {e.stderr.decode()}\")",
+    "style": "Body Text"
+  },
+  {
+    "index": 829,
+    "text": "",
+    "style": "Body Text"
+  },
+  {
+    "index": 830,
+    "text": "@app.route('/detect-audio', methods=['POST']) def detect_audio():",
+    "style": "Body Text"
+  },
+  {
+    "index": 831,
+    "text": "audio_pipe = pipeline(\"audio-classification\", model=\"Bisher/wav2vec2_ASV_deepfake_audio_detection\")",
+    "style": "Body Text"
+  },
+  {
+    "index": 832,
+    "text": "if 'file' not in request.files:",
+    "style": "Body Text"
+  },
+  {
+    "index": 833,
+    "text": "return jsonify({\"error\": \"No file uploaded\"}), 400",
+    "style": "Body Text"
+  },
+  {
+    "index": 834,
+    "text": "",
+    "style": "Body Text"
+  },
+  {
+    "index": 835,
+    "text": "file = request.files['file']",
+    "style": "Body Text"
+  },
+  {
+    "index": 836,
+    "text": "original_filename = request.form.get('original_filename', file.filename)",
+    "style": "Body Text"
+  },
+  {
+    "index": 837,
+    "text": "",
+    "style": "Body Text"
+  },
+  {
+    "index": 838,
+    "text": "if file.filename == '':",
+    "style": "Body Text"
+  },
+  {
+    "index": 839,
+    "text": "return jsonify({\"error\": \"No selected file\"}), 400",
+    "style": "Body Text"
+  },
+  {
+    "index": 840,
+    "text": "secure_orig_filename = secure_filename(original_filename) orig_filepath = os.path.join(UPLOAD_FOLDER, secure_orig_filename) file.save(orig_filepath)",
+    "style": "Body Text"
+  },
+  {
+    "index": 841,
+    "text": "filepath = None try:",
+    "style": "Body Text"
+  },
+  {
+    "index": 842,
+    "text": "file_ext = os.path.splitext(secure_orig_filename)[1].lower() if file_ext not in ['.flac']:",
+    "style": "Body Text"
+  },
+  {
+    "index": 843,
+    "text": "filepath = convert_to_flac(orig_filepath) else:",
+    "style": "Body Text"
+  },
+  {
+    "index": 844,
+    "text": "filepath = orig_filepath",
+    "style": "Body Text"
+  },
+  {
+    "index": 845,
+    "text": "if filepath != orig_filepath: os.remove(orig_filepath)",
+    "style": "Body Text"
+  },
+  {
+    "index": 846,
+    "text": "if not os.path.exists(filepath) or os.path.getsize(filepath) == 0: raise ValueError(\"Invalid audio file after conversion\")",
+    "style": "Body Text"
+  },
+  {
+    "index": 847,
+    "text": "# Use the pipeline for classification result = audio_pipe(filepath)",
+    "style": "Body Text"
+  },
+  {
+    "index": 848,
+    "text": "# Process results",
+    "style": "Body Text"
+  },
+  {
+    "index": 849,
+    "text": "total_score = sum(item['score'] for item in result) normalized_results = [",
+    "style": "Body Text"
+  },
+  {
+    "index": 850,
+    "text": "{'label': item['label'], 'normalized_score': (item['score'] / total_score) * 100} for item in result",
+    "style": "Body Text"
+  },
+  {
+    "index": 851,
+    "text": "]",
+    "style": "Normal"
+  },
+  {
+    "index": 852,
+    "text": "fake_percentage = next(",
+    "style": "Body Text"
+  },
+  {
+    "index": 853,
+    "text": "(r['normalized_score'] for r in normalized_results if r['label'].lower() == 'fake'), 0",
+    "style": "Body Text"
+  },
+  {
+    "index": 854,
+    "text": ")",
+    "style": "Normal"
+  },
+  {
+    "index": 855,
+    "text": "real_percentage = next(",
+    "style": "Body Text"
+  },
+  {
+    "index": 856,
+    "text": "",
+    "style": "Body Text"
+  },
+  {
+    "index": 857,
+    "text": "(r['normalized_score'] for r in normalized_results if r['label'].lower() == 'real'), 0",
+    "style": "Body Text"
+  },
+  {
+    "index": 858,
+    "text": ")",
+    "style": "Normal"
+  },
+  {
+    "index": 859,
+    "text": "max_confidence_result = max(result, key=lambda x: x['score']) # Enhanced audio analysis with multiple visualizations",
+    "style": "Body Text"
+  },
+  {
+    "index": 860,
+    "text": "y, sr = librosa.load(filepath)",
+    "style": "Body Text"
+  },
+  {
+    "index": 861,
+    "text": "# Create a figure with multiple subplots for different visualizations plt.switch_backend('Agg')",
+    "style": "Body Text"
+  },
+  {
+    "index": 862,
+    "text": "fig, axs = plt.subplots(2, 1, figsize=(10, 8)) # 1. Spectrogram visualization",
+    "style": "Body Text"
+  },
+  {
+    "index": 863,
+    "text": "D = librosa.stft(y)",
+    "style": "Body Text"
+  },
+  {
+    "index": 864,
+    "text": "spectrogram = librosa.amplitude_to_db(np.abs(D), ref=np.max)",
+    "style": "Body Text"
+  },
+  {
+    "index": 865,
+    "text": "img = librosa.display.specshow(spectrogram, sr=sr, x_axis='time', y_axis='hz', ax=axs[0])",
+    "style": "Body Text"
+  },
+  {
+    "index": 866,
+    "text": "fig.colorbar(img, ax=axs[0], format='%+2.0f dB') axs[0].set_title('Audio Spectrogram')",
+    "style": "Body Text"
+  },
+  {
+    "index": 867,
+    "text": "# 2. Mel-frequency spectrogram",
+    "style": "Body Text"
+  },
+  {
+    "index": 868,
+    "text": "mel_spec = librosa.feature.melspectrogram(y=y, sr=sr) mel_spec_db = librosa.power_to_db(mel_spec, ref=np.max)",
+    "style": "Body Text"
+  },
+  {
+    "index": 869,
+    "text": "img2 = librosa.display.specshow(mel_spec_db, sr=sr, x_axis='time', y_axis='mel', ax=axs[1])",
+    "style": "Body Text"
+  },
+  {
+    "index": 870,
+    "text": "fig.colorbar(img2, ax=axs[1], format='%+2.0f dB') axs[1].set_title('Mel Spectrogram')",
+    "style": "Body Text"
+  },
+  {
+    "index": 871,
+    "text": "# Adjust layout and convert to base64 plt.tight_layout()",
+    "style": "Body Text"
+  },
+  {
+    "index": 872,
+    "text": "buf = io.BytesIO()",
+    "style": "Body Text"
+  },
+  {
+    "index": 873,
+    "text": "plt.savefig(buf, format='png', bbox_inches='tight', dpi=100) plt.close(fig)",
+    "style": "Body Text"
+  },
+  {
+    "index": 874,
+    "text": "buf.seek(0)",
+    "style": "Body Text"
+  },
+  {
+    "index": 875,
+    "text": "spectrogram_base64 = base64.b64encode(buf.getvalue()).decode('utf-8') # Additional waveform visualization",
+    "style": "Body Text"
+  },
+  {
+    "index": 876,
+    "text": "plt.figure(figsize=(10, 2)) librosa.display.waveshow(y, sr=sr) plt.title('Waveform') plt.tight_layout()",
+    "style": "Body Text"
+  },
+  {
+    "index": 877,
+    "text": "waveform_buf = io.BytesIO() plt.savefig(waveform_buf, format='png', dpi=100) plt.close()",
+    "style": "Body Text"
+  },
+  {
+    "index": 878,
+    "text": "waveform_buf.seek(0)",
+    "style": "Body Text"
+  },
+  {
+    "index": 879,
+    "text": "waveform_base64 = base64.b64encode(waveform_buf.getvalue()).decode('utf-8') # Cleanup",
+    "style": "Body Text"
+  },
+  {
+    "index": 880,
+    "text": "",
+    "style": "Body Text"
+  },
+  {
+    "index": 881,
+    "text": "cleanup_files(filepath) return jsonify({",
+    "style": "Body Text"
+  },
+  {
+    "index": 882,
+    "text": "'output': max_confidence_result['label'].upper(),",
+    "style": "Body Text"
+  },
+  {
+    "index": 883,
+    "text": "'confidence': round(max_confidence_result['score'] * 100, 2), 'percentages': {",
+    "style": "Body Text"
+  },
+  {
+    "index": 884,
+    "text": "'fake': fake_percentage, 'real': real_percentage",
+    "style": "Body Text"
+  },
+  {
+    "index": 885,
+    "text": "},",
+    "style": "Normal"
+  },
+  {
+    "index": 886,
+    "text": "'visualizations': {",
+    "style": "Body Text"
+  },
+  {
+    "index": 887,
+    "text": "'spectrogram': spectrogram_base64, 'waveform': waveform_base64",
+    "style": "Body Text"
+  },
+  {
+    "index": 888,
+    "text": "},",
+    "style": "Normal"
+  },
+  {
+    "index": 889,
+    "text": "'detailed_results': normalized_results",
+    "style": "Body Text"
+  },
+  {
+    "index": 890,
+    "text": "})",
+    "style": "Normal"
+  },
+  {
+    "index": 891,
+    "text": "except Exception as e: import traceback",
+    "style": "Body Text"
+  },
+  {
+    "index": 892,
+    "text": "error_trace = traceback.format_exc()",
+    "style": "Body Text"
+  },
+  {
+    "index": 893,
+    "text": "print(f\"Error in detect-audio: {str(e)}\\nTraceback: {error_trace}\") cleanup_files(orig_filepath, filepath)",
+    "style": "Body Text"
+  },
+  {
+    "index": 894,
+    "text": "return jsonify({\"error\": str(e), \"traceback\": error_trace}), 500 # New hybrid function that uses both Xception and VideoMAE",
+    "style": "Body Text"
+  },
+  {
+    "index": 895,
+    "text": "def detect_deepfake_hybrid(video_path, output_dir, config=None): if config is None:",
+    "style": "Body Text"
+  },
+  {
+    "index": 896,
+    "text": "config = VIDEO_CONFIG",
+    "style": "Body Text"
+  },
+  {
+    "index": 897,
+    "text": "# Step 1: Extract frames for both models xception_frames = extract_frames(",
+    "style": "Body Text"
+  },
+  {
+    "index": 898,
+    "text": "video_path, frame_count=config['frame_count'], visualize=False",
+    "style": "Body Text"
+  },
+  {
+    "index": 899,
+    "text": ")",
+    "style": "Normal"
+  },
+  {
+    "index": 900,
+    "text": "# Resize frames to the target size for Xception",
+    "style": "Body Text"
+  },
+  {
+    "index": 901,
+    "text": "xception_frames = [cv2.resize(frame, config['xception_size']) for frame in xception_frames]",
+    "style": "Body Text"
+  },
+  {
+    "index": 902,
+    "text": "# Step 2: Extract Xception features (for additional analysis) xception_features = []",
+    "style": "Body Text"
+  },
+  {
+    "index": 903,
+    "text": "xception_predictions = []",
+    "style": "Body Text"
+  },
+  {
+    "index": 904,
+    "text": "for model_name, model in xception_models.items():",
+    "style": "Body Text"
+  },
+  {
+    "index": 905,
+    "text": "# Call extract_combined_features with only the expected parameters features, original_tensors = extract_combined_features(xception_frames,",
+    "style": "Body Text"
+  },
+  {
+    "index": 906,
+    "text": "{model_name: model})",
+    "style": "Body Text"
+  },
+  {
+    "index": 907,
+    "text": "# Now we need to get predictions from these features",
+    "style": "Body Text"
+  },
+  {
+    "index": 908,
+    "text": "",
+    "style": "Body Text"
+  },
+  {
+    "index": 909,
+    "text": "with torch.no_grad(): model.eval()",
+    "style": "Body Text"
+  },
+  {
+    "index": 910,
+    "text": "pred = torch.sigmoid(model(original_tensors[0])).item() xception_features.append(features) xception_predictions.append(pred)",
+    "style": "Body Text"
+  },
+  {
+    "index": 911,
+    "text": "# Average Xception predictions",
+    "style": "Body Text"
+  },
+  {
+    "index": 912,
+    "text": "avg_xception_pred = np.mean(xception_predictions) xception_prediction = \"fake\" if avg_xception_pred > 0.5 else \"real\" # Step 3: Process frames for VideoMAE",
+    "style": "Body Text"
+  },
+  {
+    "index": 913,
+    "text": "# First, ensure we have exactly 16 frames (typical VideoMAE expectation) if len(xception_frames) < 16:",
+    "style": "Body Text"
+  },
+  {
+    "index": 914,
+    "text": "# Duplicate frames if we have fewer than 16 multiplier = math.ceil(16 / len(xception_frames)) videomae_frames = xception_frames * multiplier",
+    "style": "Body Text"
+  },
+  {
+    "index": 915,
+    "text": "videomae_frames = videomae_frames[:16] # Take exactly 16 frames elif len(xception_frames) > 16:",
+    "style": "Body Text"
+  },
+  {
+    "index": 916,
+    "text": "# Sample frames if we have more than 16",
+    "style": "Body Text"
+  },
+  {
+    "index": 917,
+    "text": "indices = np.linspace(0, len(xception_frames)-1, 16, dtype=int) videomae_frames = [xception_frames[i] for i in indices]",
+    "style": "Body Text"
+  },
+  {
+    "index": 918,
+    "text": "else:",
+    "style": "Body Text"
+  },
+  {
+    "index": 919,
+    "text": "videomae_frames = xception_frames",
+    "style": "Body Text"
+  },
+  {
+    "index": 920,
+    "text": "# Ensure frames are resized to VideoMAE expected size (224x224) videomae_frames = [cv2.resize(frame, (224, 224)) for frame in videomae_frames] # Convert frames to PIL Images",
+    "style": "Body Text"
+  },
+  {
+    "index": 921,
+    "text": "pil_frames = [Image.fromarray(cv2.cvtColor(frame, cv2.COLOR_BGR2RGB)) for frame in videomae_frames]",
+    "style": "Body Text"
+  },
+  {
+    "index": 922,
+    "text": "try:",
+    "style": "Body Text"
+  },
+  {
+    "index": 923,
+    "text": "# Process frames for VideoMAE - with appropriate pixel_values shape",
+    "style": "Body Text"
+  },
+  {
+    "index": 924,
+    "text": "# VideoMAE typically expects [batch_size, num_frames, height, width, channels] inputs = videomae_processor(pil_frames, return_tensors=\"pt\")",
+    "style": "Body Text"
+  },
+  {
+    "index": 925,
+    "text": "# Debug the shape to verify",
+    "style": "Body Text"
+  },
+  {
+    "index": 926,
+    "text": "print(f\"VideoMAE input shape: {inputs['pixel_values'].shape}\") inputs = {k: v.to(device) for k, v in inputs.items()}",
+    "style": "Body Text"
+  },
+  {
+    "index": 927,
+    "text": "# Run inference with VideoMAE with torch.no_grad():",
+    "style": "Body Text"
+  },
+  {
+    "index": 928,
+    "text": "outputs = videomae_model(**inputs) logits = outputs.logits",
+    "style": "Body Text"
+  },
+  {
+    "index": 929,
+    "text": "# Get VideoMAE prediction and confidence",
+    "style": "Body Text"
+  },
+  {
+    "index": 930,
+    "text": "probabilities = torch.nn.functional.softmax(logits, dim=1)[0] prediction_idx = torch.argmax(probabilities).item() videomae_confidence = probabilities[prediction_idx].item()",
+    "style": "Body Text"
+  },
+  {
+    "index": 931,
+    "text": "",
+    "style": "Body Text"
+  },
+  {
+    "index": 932,
+    "text": "videomae_prediction = \"fake\" if prediction_idx == 1 else \"real\" except Exception as e:",
+    "style": "Body Text"
+  },
+  {
+    "index": 933,
+    "text": "print(f\"VideoMAE processing error: {e}\")",
+    "style": "Body Text"
+  },
+  {
+    "index": 934,
+    "text": "# Fallback to Xception prediction if VideoMAE fails videomae_prediction = xception_prediction",
+    "style": "Body Text"
+  },
+  {
+    "index": 935,
+    "text": "videomae_confidence = avg_xception_pred if avg_xception_pred > 0.5 else 1 - avg_xception_pred",
+    "style": "Body Text"
+  },
+  {
+    "index": 936,
+    "text": "print(f\"Falling back to Xception prediction: {videomae_prediction} ({videomae_confidence:.2f})\")",
+    "style": "Body Text"
+  },
+  {
+    "index": 937,
+    "text": "# Calculate frame importance",
+    "style": "Body Text"
+  },
+  {
+    "index": 938,
+    "text": "frame_importance = compute_simple_frame_importance(xception_frames, xception_models)",
+    "style": "Body Text"
+  },
+  {
+    "index": 939,
+    "text": "# Generate visualizations showing both model predictions os.makedirs(output_dir, exist_ok=True)",
+    "style": "Body Text"
+  },
+  {
+    "index": 940,
+    "text": "# Create comparison visualization plt.figure(figsize=(12, 6))",
+    "style": "Body Text"
+  },
+  {
+    "index": 941,
+    "text": "plt.subplot(1, 2, 1)",
+    "style": "Body Text"
+  },
+  {
+    "index": 942,
+    "text": "plt.bar(['Real', 'Fake'], [1-avg_xception_pred, avg_xception_pred]) plt.title(f\"Xception Prediction: {xception_prediction.upper()}\") plt.ylim(0, 1)",
+    "style": "Body Text"
+  },
+  {
+    "index": 943,
+    "text": "plt.subplot(1, 2, 2)",
+    "style": "Body Text"
+  },
+  {
+    "index": 944,
+    "text": "if isinstance(probabilities, torch.Tensor):",
+    "style": "Body Text"
+  },
+  {
+    "index": 945,
+    "text": "real_prob = probabilities[0].item() if len(probabilities) > 1 else 1-videomae_confidence fake_prob = probabilities[1].item() if len(probabilities) > 1 else videomae_confidence",
+    "style": "Body Text"
+  },
+  {
+    "index": 946,
+    "text": "else:",
+    "style": "Body Text"
+  },
+  {
+    "index": 947,
+    "text": "real_prob = 1-videomae_confidence fake_prob = videomae_confidence",
+    "style": "Body Text"
+  },
+  {
+    "index": 948,
+    "text": "plt.bar(['Real', 'Fake'], [real_prob, fake_prob]) plt.title(f\"VideoMAE Prediction: {videomae_prediction.upper()}\") plt.ylim(0, 1)",
+    "style": "Body Text"
+  },
+  {
+    "index": 949,
+    "text": "plt.tight_layout()",
+    "style": "Body Text"
+  },
+  {
+    "index": 950,
+    "text": "plt.savefig(os.path.join(output_dir, \"model_comparison.png\")) plt.close()",
+    "style": "Body Text"
+  },
+  {
+    "index": 951,
+    "text": "# Generate frame visualizations",
+    "style": "Body Text"
+  },
+  {
+    "index": 952,
+    "text": "for i, frame in enumerate(xception_frames):",
+    "style": "Body Text"
+  },
+  {
+    "index": 953,
+    "text": "# Add a colored border based on importance",
+    "style": "Body Text"
+  },
+  {
+    "index": 954,
+    "text": "importance = frame_importance[i] if i < len(frame_importance) else 0.0 color = (0, int(255 * (1-importance)), int(255 * importance)) # Red to Green bordered_frame = cv2.copyMakeBorder(frame, 10, 10, 10, 10, cv2.BORDER_CONSTANT, value=color)",
+    "style": "Body Text"
+  },
+  {
+    "index": 955,
+    "text": "",
+    "style": "Body Text"
+  },
+  {
+    "index": 956,
+    "text": "cv2.imwrite(os.path.join(output_dir, f\"frame_{i}_imp_{importance:.2f}.jpg\"), bordered_frame)",
+    "style": "Body Text"
+  },
+  {
+    "index": 957,
+    "text": "# Return VideoMAE's prediction as the final result",
+    "style": "Body Text"
+  },
+  {
+    "index": 958,
+    "text": "# but include Xception features for additional insight",
+    "style": "Body Text"
+  },
+  {
+    "index": 959,
+    "text": "return videomae_prediction, videomae_confidence, xception_frames, frame_importance, xception_features",
+    "style": "Body Text"
+  },
+  {
+    "index": 960,
+    "text": "@app.route('/detect-video', methods=['POST']) def detect_video():",
+    "style": "Body Text"
+  },
+  {
+    "index": 961,
+    "text": "if 'video' not in request.files:",
+    "style": "Body Text"
+  },
+  {
+    "index": 962,
+    "text": "return jsonify({\"error\": \"No video file provided\"}), 400 video_file = request.files['video']",
+    "style": "Body Text"
+  },
+  {
+    "index": 963,
+    "text": "if video_file.filename == '':",
+    "style": "Body Text"
+  },
+  {
+    "index": 964,
+    "text": "return jsonify({\"error\": \"No selected file\"}), 400 # Extract parameters from request",
+    "style": "Body Text"
+  },
+  {
+    "index": 965,
+    "text": "frame_count = int(request.form.get('frame_count', VIDEO_CONFIG['frame_count'])) output_visuals = request.form.get('output_visuals', 'true').lower() == 'true'",
+    "style": "Body Text"
+  },
+  {
+    "index": 966,
+    "text": "# Update video config with user parameters custom_video_config = {",
+    "style": "Body Text"
+  },
+  {
+    "index": 967,
+    "text": "'frame_count': frame_count,",
+    "style": "Body Text"
+  },
+  {
+    "index": 968,
+    "text": "'min_frame_interval': VIDEO_CONFIG['min_frame_interval'], 'xception_size': VIDEO_CONFIG['xception_size'], 'videomae_size': VIDEO_CONFIG['videomae_size']",
+    "style": "Body Text"
+  },
+  {
+    "index": 969,
+    "text": "}",
+    "style": "Normal"
+  },
+  {
+    "index": 970,
+    "text": "video_path = os.path.join(UPLOAD_FOLDER, secure_filename(video_file.filename)) video_file.save(video_path)",
+    "style": "Body Text"
+  },
+  {
+    "index": 971,
+    "text": "output_dir = os.path.join(OUTPUT_DIR, os.path.splitext(video_file.filename)[0]) os.makedirs(output_dir, exist_ok=True)",
+    "style": "Body Text"
+  },
+  {
+    "index": 972,
+    "text": "try:",
+    "style": "Body Text"
+  },
+  {
+    "index": 973,
+    "text": "# Clear CUDA cache if available if torch.cuda.is_available():",
+    "style": "Body Text"
+  },
+  {
+    "index": 974,
+    "text": "torch.cuda.empty_cache()",
+    "style": "Body Text"
+  },
+  {
+    "index": 975,
+    "text": "# Use the hybrid detection function",
+    "style": "Body Text"
+  },
+  {
+    "index": 976,
+    "text": "prediction, confidence, frames, frame_importance, xception_features = detect_deepfake_hybrid(",
+    "style": "Body Text"
+  },
+  {
+    "index": 977,
+    "text": "video_path, output_dir,",
+    "style": "Body Text"
+  },
+  {
+    "index": 978,
+    "text": "config=custom_video_config",
+    "style": "Body Text"
+  },
+  {
+    "index": 979,
+    "text": ")",
+    "style": "Normal"
+  },
+  {
+    "index": 980,
+    "text": "",
+    "style": "Body Text"
+  },
+  {
+    "index": 981,
+    "text": "# Convert frame importance to list if it's a tensor if isinstance(frame_importance, torch.Tensor):",
+    "style": "Body Text"
+  },
+  {
+    "index": 982,
+    "text": "",
+    "style": "Body Text"
+  },
+  {
+    "index": 983,
+    "text": "frame_importance = frame_importance.tolist() elif frame_importance is None:",
+    "style": "Body Text"
+  },
+  {
+    "index": 984,
+    "text": "frame_importance = [] # Prepare frame data frame_data = []",
+    "style": "Body Text"
+  },
+  {
+    "index": 985,
+    "text": "for i, frame in enumerate(frames):",
+    "style": "Body Text"
+  },
+  {
+    "index": 986,
+    "text": "_, buffer = cv2.imencode('.jpg', frame)",
+    "style": "Body Text"
+  },
+  {
+    "index": 987,
+    "text": "frame_base64 = base64.b64encode(buffer).decode('utf-8') importance = frame_importance[i] if frame_importance else 0.0 frame_data.append({",
+    "style": "Body Text"
+  },
+  {
+    "index": 988,
+    "text": "\"image\": frame_base64,",
+    "style": "Body Text"
+  },
+  {
+    "index": 989,
+    "text": "\"importance\": float(importance) if isinstance(importance, (float, int, np.number)) else 0.0",
+    "style": "Body Text"
+  },
+  {
+    "index": 990,
+    "text": "})",
+    "style": "Normal"
+  },
+  {
+    "index": 991,
+    "text": "# Prepare model comparison visualization",
+    "style": "Body Text"
+  },
+  {
+    "index": 992,
+    "text": "model_comparison_path = os.path.join(output_dir, \"model_comparison.png\") model_comparison_base64 = \"\"",
+    "style": "Body Text"
+  },
+  {
+    "index": 993,
+    "text": "if os.path.exists(model_comparison_path):",
+    "style": "Body Text"
+  },
+  {
+    "index": 994,
+    "text": "with open(model_comparison_path, \"rb\") as f:",
+    "style": "Body Text"
+  },
+  {
+    "index": 995,
+    "text": "model_comparison_base64 = base64.b64encode(f.read()).decode('utf-8') # Prepare visualizations",
+    "style": "Body Text"
+  },
+  {
+    "index": 996,
+    "text": "xai_visuals = []",
+    "style": "Body Text"
+  },
+  {
+    "index": 997,
+    "text": "if os.path.exists(output_dir):",
+    "style": "Body Text"
+  },
+  {
+    "index": 998,
+    "text": "for file in os.listdir(output_dir):",
+    "style": "Body Text"
+  },
+  {
+    "index": 999,
+    "text": "if file.startswith(\"frame_\") and file.endswith(\".jpg\"): with open(os.path.join(output_dir, file), \"rb\") as f:",
+    "style": "Body Text"
+  },
+  {
+    "index": 1000,
+    "text": "frame_num = int(file.split(\"_\")[1]) xai_visuals.append({",
+    "style": "Body Text"
+  },
+  {
+    "index": 1001,
+    "text": "\"frame\": frame_num,",
+    "style": "Body Text"
+  },
+  {
+    "index": 1002,
+    "text": "\"image\": base64.b64encode(f.read()).decode('utf-8'), \"model\": \"combined\"",
+    "style": "Body Text"
+  },
+  {
+    "index": 1003,
+    "text": "})",
+    "style": "Normal"
+  },
+  {
+    "index": 1004,
+    "text": "response = {",
+    "style": "Body Text"
+  },
+  {
+    "index": 1005,
+    "text": "\"prediction\": prediction.upper(), \"confidence\": round(confidence * 100, 2), \"frames\": {",
+    "style": "Body Text"
+  },
+  {
+    "index": 1006,
+    "text": "\"count\": len(frames),",
+    "style": "Body Text"
+  },
+  {
+    "index": 1007,
+    "text": "\"importance_scores\": [float(x) for x in frame_importance] if frame_importance else [],",
+    "style": "Body Text"
+  },
+  {
+    "index": 1008,
+    "text": "\"images\": frame_data",
+    "style": "Body Text"
+  },
+  {
+    "index": 1009,
+    "text": "},",
+    "style": "Normal"
+  },
+  {
+    "index": 1010,
+    "text": "",
+    "style": "Normal"
+  },
+  {
+    "index": 1011,
+    "text": "\"model_comparison\": model_comparison_base64, \"xai_visualizations\": xai_visuals",
+    "style": "Body Text"
+  },
+  {
+    "index": 1012,
+    "text": "}",
+    "style": "Normal"
+  },
+  {
+    "index": 1013,
+    "text": "cleanup_files(video_path) return jsonify(response)",
+    "style": "Body Text"
+  },
+  {
+    "index": 1014,
+    "text": "except Exception as e: import traceback",
+    "style": "Body Text"
+  },
+  {
+    "index": 1015,
+    "text": "error_trace = traceback.format_exc()",
+    "style": "Body Text"
+  },
+  {
+    "index": 1016,
+    "text": "print(f\"Error in detect-video: {str(e)}\\nTraceback: {error_trace}\") cleanup_files(video_path)",
+    "style": "Body Text"
+  },
+  {
+    "index": 1017,
+    "text": "return jsonify({ \"error\": str(e),",
+    "style": "Body Text"
+  },
+  {
+    "index": 1018,
+    "text": "\"type\": type(e).\tname\t, \"traceback\": error_trace",
+    "style": "Body Text"
+  },
+  {
+    "index": 1019,
+    "text": "}), 500",
+    "style": "Body Text"
+  },
+  {
+    "index": 1020,
+    "text": "# In the detect-image route, modify it to include XAI visualizations @app.route('/detect-image', methods=['POST'])",
+    "style": "Body Text"
+  },
+  {
+    "index": 1021,
+    "text": "def detect_image():",
+    "style": "Body Text"
+  },
+  {
+    "index": 1022,
+    "text": "if 'file' not in request.files:",
+    "style": "Body Text"
+  },
+  {
+    "index": 1023,
+    "text": "return jsonify({\"error\": \"No file uploaded\"}), 400 file = request.files['file']",
+    "style": "Body Text"
+  },
+  {
+    "index": 1024,
+    "text": "if file.filename == '':",
+    "style": "Body Text"
+  },
+  {
+    "index": 1025,
+    "text": "return jsonify({\"error\": \"No selected file\"}), 400 filename = secure_filename(file.filename)",
+    "style": "Body Text"
+  },
+  {
+    "index": 1026,
+    "text": "filepath = os.path.join(app.config['UPLOAD_FOLDER'], filename) file.save(filepath)",
+    "style": "Body Text"
+  },
+  {
+    "index": 1027,
+    "text": "# Check if XAI visualizations are requested",
+    "style": "Body Text"
+  },
+  {
+    "index": 1028,
+    "text": "generate_xai = request.form.get('generate_xai', 'false').lower() == 'true' try:",
+    "style": "Body Text"
+  },
+  {
+    "index": 1029,
+    "text": "# Load image with PIL first (more memory efficient) pil_image = Image.open(filepath).convert(\"RGB\")",
+    "style": "Body Text"
+  },
+  {
+    "index": 1030,
+    "text": "# Resize large images to reduce memory usage max_size = 800 # Maximum dimension",
+    "style": "Body Text"
+  },
+  {
+    "index": 1031,
+    "text": "if pil_image.width > max_size or pil_image.height > max_size: # Calculate ratio to preserve aspect ratio",
+    "style": "Body Text"
+  },
+  {
+    "index": 1032,
+    "text": "ratio = min(max_size / pil_image.width, max_size / pil_image.height) new_width = int(pil_image.width * ratio)",
+    "style": "Body Text"
+  },
+  {
+    "index": 1033,
+    "text": "new_height = int(pil_image.height * ratio)",
+    "style": "Body Text"
+  },
+  {
+    "index": 1034,
+    "text": "pil_image = pil_image.resize((new_width, new_height), Image.LANCZOS) # Process for model",
+    "style": "Body Text"
+  },
+  {
+    "index": 1035,
+    "text": "inputs = processor(images=pil_image, return_tensors=\"pt\")",
+    "style": "Body Text"
+  },
+  {
+    "index": 1036,
+    "text": "",
+    "style": "Body Text"
+  },
+  {
+    "index": 1037,
+    "text": "with torch.no_grad():",
+    "style": "Body Text"
+  },
+  {
+    "index": 1038,
+    "text": "outputs = image_model(**inputs) logits = outputs.logits",
+    "style": "Body Text"
+  },
+  {
+    "index": 1039,
+    "text": "predicted_class = torch.argmax(logits, dim=1).item() probabilities = torch.softmax(logits, dim=1).numpy()[0]",
+    "style": "Body Text"
+  },
+  {
+    "index": 1040,
+    "text": "response = {",
+    "style": "Body Text"
+  },
+  {
+    "index": 1041,
+    "text": "\"prediction\": image_labels.get(predicted_class, 'Unknown'), \"confidence\": {",
+    "style": "Body Text"
+  },
+  {
+    "index": 1042,
+    "text": "\"real\": float(round(probabilities[0] * 100, 2)),",
+    "style": "Body Text"
+  },
+  {
+    "index": 1043,
+    "text": "\"fake\": float(round(probabilities[1] * 100, 2))",
+    "style": "Body Text"
+  },
+  {
+    "index": 1044,
+    "text": "}",
+    "style": "Normal"
+  },
+  {
+    "index": 1045,
+    "text": "}",
+    "style": "Normal"
+  },
+  {
+    "index": 1046,
+    "text": "# Generate simple XAI visualizations if requested if generate_xai:",
+    "style": "Body Text"
+  },
+  {
+    "index": 1047,
+    "text": "# Convert PIL image to numpy array for visualization img_array = np.array(pil_image)",
+    "style": "Body Text"
+  },
+  {
+    "index": 1048,
+    "text": "# Create memory-efficient visualizations container xai_visualizations = {}",
+    "style": "Body Text"
+  },
+  {
+    "index": 1049,
+    "text": "# 1. Pixel Distribution Histogram - simple and memory efficient plt.figure(figsize=(5, 3), dpi=80) # Smaller figure size to save memory # Downsample the image for histogram to reduce memory usage downsampled = img_array[::4, ::4, :]",
+    "style": "Body Text"
+  },
+  {
+    "index": 1050,
+    "text": "# Plot histogram for each channel",
+    "style": "Body Text"
+  },
+  {
+    "index": 1051,
+    "text": "plt.hist(downsampled[:,:,0].flatten(), bins=50, alpha=0.5, color='red', label='R') plt.hist(downsampled[:,:,1].flatten(), bins=50, alpha=0.5, color='green', label='G') plt.hist(downsampled[:,:,2].flatten(), bins=50, alpha=0.5, color='blue', label='B') plt.title('Pixel Distribution')",
+    "style": "Body Text"
+  },
+  {
+    "index": 1052,
+    "text": "plt.xlabel('Intensity') plt.ylabel('Count') plt.legend() plt.tight_layout()",
+    "style": "Body Text"
+  },
+  {
+    "index": 1053,
+    "text": "# Save to buffer hist_buf = io.BytesIO()",
+    "style": "Body Text"
+  },
+  {
+    "index": 1054,
+    "text": "plt.savefig(hist_buf, format='png')",
+    "style": "Body Text"
+  },
+  {
+    "index": 1055,
+    "text": "plt.close() # Close the figure to free memory hist_buf.seek(0)",
+    "style": "Body Text"
+  },
+  {
+    "index": 1056,
+    "text": "xai_visualizations['histogram'] = base64.b64encode(hist_buf.getvalue()).decode('utf-",
+    "style": "Body Text"
+  },
+  {
+    "index": 1057,
+    "text": "8')",
+    "style": "Body Text"
+  },
+  {
+    "index": 1058,
+    "text": "# Memory-efficient XAI approximations:",
+    "style": "Body Text"
+  },
+  {
+    "index": 1059,
+    "text": "# 2. Simplified \"Integrated Gradients\" visualization (memory-efficient",
+    "style": "Body Text"
+  },
+  {
+    "index": 1060,
+    "text": "approximation)",
+    "style": "Body Text"
+  },
+  {
+    "index": 1061,
+    "text": "",
+    "style": "Body Text"
+  },
+  {
+    "index": 1062,
+    "text": "plt.figure(figsize=(5, 5), dpi=80)",
+    "style": "Body Text"
+  },
+  {
+    "index": 1063,
+    "text": "# Create a simplified heatmap based on image features",
+    "style": "Body Text"
+  },
+  {
+    "index": 1064,
+    "text": "# This uses image edges which are often relevant for deepfake detection gray = cv2.cvtColor(img_array, cv2.COLOR_RGB2GRAY)",
+    "style": "Body Text"
+  },
+  {
+    "index": 1065,
+    "text": "edges = cv2.Canny(gray, 100, 200) # Create a colormap overlay plt.imshow(pil_image)",
+    "style": "Body Text"
+  },
+  {
+    "index": 1066,
+    "text": "plt.imshow(edges, cmap='hot', alpha=0.5) plt.title('Edge Analysis')",
+    "style": "Body Text"
+  },
+  {
+    "index": 1067,
+    "text": "plt.axis('off')",
+    "style": "Body Text"
+  },
+  {
+    "index": 1068,
+    "text": "ig_buf = io.BytesIO() plt.savefig(ig_buf, format='png') plt.close()",
+    "style": "Body Text"
+  },
+  {
+    "index": 1069,
+    "text": "ig_buf.seek(0) xai_visualizations['integrated_gradients'] =",
+    "style": "Body Text"
+  },
+  {
+    "index": 1070,
+    "text": "base64.b64encode(ig_buf.getvalue()).decode('utf-8')",
+    "style": "Body Text"
+  },
+  {
+    "index": 1071,
+    "text": "",
+    "style": "Body Text"
+  },
+  {
+    "index": 1072,
+    "text": "# 3. Simplified \"Grad-CAM\" visualization (memory-efficient approximation) plt.figure(figsize=(5, 5), dpi=80)",
+    "style": "Body Text"
+  },
+  {
+    "index": 1073,
+    "text": "# Use frequency domain features (often relevant for deepfake detection) gray = cv2.cvtColor(img_array, cv2.COLOR_RGB2GRAY)",
+    "style": "Body Text"
+  },
+  {
+    "index": 1074,
+    "text": "# Apply simple FFT as a proxy for frequency analysis that deepfake models often use f_transform = np.fft.fft2(gray)",
+    "style": "Body Text"
+  },
+  {
+    "index": 1075,
+    "text": "f_shift = np.fft.fftshift(f_transform) magnitude_spectrum = 20 * np.log(np.abs(f_shift) + 1) # Normalize for visualization",
+    "style": "Body Text"
+  },
+  {
+    "index": 1076,
+    "text": "magnitude_spectrum = (magnitude_spectrum - magnitude_spectrum.min()) / (magnitude_spectrum.max() - magnitude_spectrum.min())",
+    "style": "Body Text"
+  },
+  {
+    "index": 1077,
+    "text": "# Resize to match original image",
+    "style": "Body Text"
+  },
+  {
+    "index": 1078,
+    "text": "magnitude_spectrum_resized = cv2.resize(magnitude_spectrum, (img_array.shape[1], img_array.shape[0]))",
+    "style": "Body Text"
+  },
+  {
+    "index": 1079,
+    "text": "# Show original with overlay plt.imshow(pil_image)",
+    "style": "Body Text"
+  },
+  {
+    "index": 1080,
+    "text": "plt.imshow(magnitude_spectrum_resized, cmap='inferno', alpha=0.5) plt.title('Frequency Analysis')",
+    "style": "Body Text"
+  },
+  {
+    "index": 1081,
+    "text": "plt.axis('off')",
+    "style": "Body Text"
+  },
+  {
+    "index": 1082,
+    "text": "cam_buf = io.BytesIO() plt.savefig(cam_buf, format='png') plt.close()",
+    "style": "Body Text"
+  },
+  {
+    "index": 1083,
+    "text": "",
+    "style": "Body Text"
+  },
+  {
+    "index": 1084,
+    "text": "",
+    "style": "Body Text"
+  },
+  {
+    "index": 1085,
+    "text": "",
+    "style": "Body Text"
+  },
+  {
+    "index": 1086,
+    "text": "8')",
+    "style": "Body Text"
+  },
+  {
+    "index": 1087,
+    "text": "cam_buf.seek(0)",
+    "style": "Body Text"
+  },
+  {
+    "index": 1088,
+    "text": "xai_visualizations['grad_cam'] = base64.b64encode(cam_buf.getvalue()).decode('utf-",
+    "style": "Body Text"
+  },
+  {
+    "index": 1089,
+    "text": "",
+    "style": "Body Text"
+  },
+  {
+    "index": 1090,
+    "text": "# 4. Simplified \"Occlusion\" visualization (memory-efficient approximation) plt.figure(figsize=(5, 5), dpi=80)",
+    "style": "Body Text"
+  },
+  {
+    "index": 1091,
+    "text": "# Create a simple noise analysis visualization # Many deepfakes have specific noise patterns",
+    "style": "Body Text"
+  },
+  {
+    "index": 1092,
+    "text": "gray = cv2.cvtColor(img_array, cv2.COLOR_RGB2GRAY) # Extract image noise using high-pass filter",
+    "style": "Body Text"
+  },
+  {
+    "index": 1093,
+    "text": "blur = cv2.GaussianBlur(gray, (0, 0), 3) noise = cv2.subtract(gray, blur)",
+    "style": "Body Text"
+  },
+  {
+    "index": 1094,
+    "text": "# Enhance noise for visibility",
+    "style": "Body Text"
+  },
+  {
+    "index": 1095,
+    "text": "noise = cv2.normalize(noise, None, 0, 255, cv2.NORM_MINMAX) # Show original with overlay",
+    "style": "Body Text"
+  },
+  {
+    "index": 1096,
+    "text": "plt.imshow(pil_image)",
+    "style": "Body Text"
+  },
+  {
+    "index": 1097,
+    "text": "plt.imshow(noise, cmap='viridis', alpha=0.5) plt.title('Noise Pattern Analysis') plt.axis('off')",
+    "style": "Body Text"
+  },
+  {
+    "index": 1098,
+    "text": "occlusion_buf = io.BytesIO() plt.savefig(occlusion_buf, format='png') plt.close()",
+    "style": "Body Text"
+  },
+  {
+    "index": 1099,
+    "text": "occlusion_buf.seek(0) xai_visualizations['occlusion'] =",
+    "style": "Body Text"
+  },
+  {
+    "index": 1100,
+    "text": "",
+    "style": "Body Text"
+  },
+  {
+    "index": 1101,
+    "text": "base64.b64encode(occlusion_buf.getvalue()).decode('utf-8') # Add the visualizations to the response",
+    "style": "Body Text"
+  },
+  {
+    "index": 1102,
+    "text": "response['visualizations'] = {'histogram': xai_visualizations['histogram']} # Add XAI visualizations separately for the frontend component response['xai_visualizations'] = {",
+    "style": "Body Text"
+  },
+  {
+    "index": 1103,
+    "text": "'integrated_gradients': xai_visualizations['integrated_gradients'], 'grad_cam': xai_visualizations['grad_cam'],",
+    "style": "Body Text"
+  },
+  {
+    "index": 1104,
+    "text": "'occlusion': xai_visualizations['occlusion']",
+    "style": "Body Text"
+  },
+  {
+    "index": 1105,
+    "text": "}",
+    "style": "Normal"
+  },
+  {
+    "index": 1106,
+    "text": "# Clean up resources cleanup_files(filepath)",
+    "style": "Body Text"
+  },
+  {
+    "index": 1107,
+    "text": "# Explicitly trigger garbage collection to free memory if generate_xai:",
+    "style": "Body Text"
+  },
+  {
+    "index": 1108,
+    "text": "import gc gc.collect()",
+    "style": "Body Text"
+  },
+  {
+    "index": 1109,
+    "text": "return jsonify(response) except Exception as e:",
+    "style": "Body Text"
+  },
+  {
+    "index": 1110,
+    "text": "import traceback",
+    "style": "Body Text"
+  },
+  {
+    "index": 1111,
+    "text": "",
+    "style": "Body Text"
+  },
+  {
+    "index": 1112,
+    "text": "print(f\"Error in detect-image: {str(e)}\\nTraceback: {traceback.format_exc()}\") cleanup_files(filepath)",
+    "style": "Body Text"
+  },
+  {
+    "index": 1113,
+    "text": "return jsonify({\"error\": str(e)}), 500",
+    "style": "Body Text"
+  },
+  {
+    "index": 1114,
+    "text": "",
+    "style": "Body Text"
+  },
+  {
+    "index": 1115,
+    "text": "if \t\tname\t== '\tmain\t': app.run(host='0.0.0.0', port=5000, debug=True)",
+    "style": "Body Text"
+  },
+  {
+    "index": 1116,
+    "text": "",
+    "style": "Body Text"
+  },
+  {
+    "index": 1117,
+    "text": "SAMPLE SCREENSHOTS",
+    "style": "Heading 2"
+  },
+  {
+    "index": 1118,
+    "text": "",
+    "style": "Body Text"
+  },
+  {
+    "index": 1119,
+    "text": "Figure 7.1: Home Page",
+    "style": "Normal"
+  },
+  {
+    "index": 1120,
+    "text": "",
+    "style": "Body Text"
+  },
+  {
+    "index": 1121,
+    "text": "Figure 7.2: Video Deepfake Detection Page",
+    "style": "Normal"
+  },
+  {
+    "index": 1122,
+    "text": "",
+    "style": "Normal"
+  },
+  {
+    "index": 1123,
+    "text": "",
+    "style": "Body Text"
+  },
+  {
+    "index": 1124,
+    "text": "Figure 7.3: Image Deepfake Detection Page",
+    "style": "Normal"
+  },
+  {
+    "index": 1125,
+    "text": "",
+    "style": "Body Text"
+  },
+  {
+    "index": 1126,
+    "text": "Figure 7.4: Audio Deepfake Detection Page",
+    "style": "Normal"
+  },
+  {
+    "index": 1127,
+    "text": "",
+    "style": "Body Text"
+  },
+  {
+    "index": 1128,
+    "text": "DISCUSSION",
+    "style": "Heading 2"
+  },
+  {
+    "index": 1129,
+    "text": "The proposed deepfake detection system demonstrates strong performance across audio, image, and video modalities, with the ensemble model improving accuracy and reducing false detections. Explainability features such as attention heatmaps and audio spectrograms enhance user trust and make the model's decisions more transparent. Real- time responsiveness and a user-friendly interface make the system practical for real-world applications like media verification and cybersecurity. While results are promising, further improvements can be made through larger datasets, multilingual support, and expanded functionality to increase robustness and usability across domains.",
+    "style": "Body Text"
+  },
+  {
+    "index": 1130,
+    "text": "",
+    "style": "Body Text"
+  },
+  {
+    "index": 1131,
+    "text": "SUMMARY",
+    "style": "Heading 2"
+  },
+  {
+    "index": 1132,
+    "text": "",
+    "style": "Body Text"
+  },
+  {
+    "index": 1133,
+    "text": "This chapter presented a comprehensive analysis of the experimental results, demonstrating the effectiveness of the Deepfake Detection system. The ensemble model outperformed individual models, achieving 95% accuracy, high recall, and real-time inference speeds. Comparative studies highlight that this system is a viable alternative to traditional detection methods. The next chapter discusses conclusions and future enhancements.",
+    "style": "Body Text"
+  },
+  {
+    "index": 1134,
+    "text": "",
+    "style": "Body Text"
+  },
+  {
+    "index": 1135,
+    "text": "CHAPTER 8 CONCLUSION AND FUTURE WORK",
+    "style": "Heading 1"
+  },
+  {
+    "index": 1136,
+    "text": "CONCLUSION",
+    "style": "Heading 2"
+  },
+  {
+    "index": 1137,
+    "text": "The Deepfake Detection System presented in this study introduces a robust, real-time, and multimodal solution to the growing threat of synthetic media manipulation. By integrating state-of-the-art deep learning models Xception for spatial video analysis, Video Transformer for temporal inconsistencies, Vision Transformer (ViT) for facial image evaluation, and Wav2Vec 2.0 for audio tampering detection the system demonstrates an effective approach to identifying forged content across image, video, and audio domains.",
+    "style": "Body Text"
+  },
+  {
+    "index": 1138,
+    "text": "The system is designed for practical deployment, featuring a Flask-based backend, a React-driven frontend, and MongoDB Atlas for logging and report generation. The use of spectrogram visualizations, attention heatmaps, and explainability tools ensures transparency and interpretability, both of which are essential in high-stakes environments such as media forensics, cybersecurity, and misinformation control.",
+    "style": "Body Text"
+  },
+  {
+    "index": 1139,
+    "text": "Experimental results validate the system’s efficacy in accurately detecting deepfakes, and user testing confirms its potential for real-world use. The platform's ability to process data in real-time, generate detailed reports, and provide a seamless user experience makes it a valuable asset in the fight against digitally fabricated content.",
+    "style": "Body Text"
+  },
+  {
+    "index": 1140,
+    "text": "",
+    "style": "Body Text"
+  },
+  {
+    "index": 1141,
+    "text": "FUTURE WORK",
+    "style": "Heading 2"
+  },
+  {
+    "index": 1142,
+    "text": "",
+    "style": "Body Text"
+  },
+  {
+    "index": 1143,
+    "text": "Future work will focus on expanding the dataset size and diversity by incorporating region-specific deepfakes and multilingual voice datasets to enhance the model’s generalization across global contexts. Additionally, the system can be adapted into a lightweight mobile application capable of detecting deepfake content directly within messaging and social media platforms, improving accessibility and on-device utility. Integration with social media services such as Twitter, Instagram, and TikTok through browser extensions or plugins could further enable real-time detection and flagging of manipulated media, promoting safer digital environments.",
+    "style": "Body Text"
+  },
+  {
+    "index": 1144,
+    "text": "",
+    "style": "Body Text"
+  },
+  {
+    "index": 1145,
+    "text": "CHAPTER 9",
+    "style": "Heading 1"
+  },
+  {
+    "index": 1146,
+    "text": "",
+    "style": "Body Text"
+  },
+  {
+    "index": 1147,
+    "text": "REFERENCES",
+    "style": "Normal"
+  },
+  {
+    "index": 1148,
+    "text": "",
+    "style": "Body Text"
+  },
+  {
+    "index": 1149,
+    "text": "Aloraini, M., Sharifzadeh, M., and Schonfeld, D., \"Sequential and Patch Analyses for Object Removal Video Forgery Detection and Localization,\" IEEE Transactions on Circuits and Systems for Video Technology, vol. 31, no. 3, pp. 917–930, 2021, doi: 10.1109/TCSVT.2020.2993004.",
+    "style": "List Paragraph"
+  },
+  {
+    "index": 1150,
+    "text": "Arashloo, S. R., Kittler, J., and Christmas, W., \"Face Spoofing Detection Based on Multiple Descriptor Fusion Using Multiscale Dynamic Binarized Statistical Image Features,\" IEEE Transactions on Information Forensics and Security, 202X.",
+    "style": "List Paragraph"
+  },
+  {
+    "index": 1151,
+    "text": "D’Amiano, L., Cozzolino, D., Poggi, G., and Verdoliva, L., \"A PatchMatch-Based Dense-Field Algorithm for Video Copy–Move Detection and Localization,\" IEEE Transactions on Circuits and Systems for Video Technology, vol. 29, no. 3, pp. 669– 682, 2019, doi: 10.1109/TCSVT.2018.2804768.",
+    "style": "List Paragraph"
+  },
+  {
+    "index": 1152,
+    "text": "Farooq, M. S., Arooj, A., Alroobaea, R., Baqasah, A. M., Jabarulla, M. Y., Singh, D., and Sardar, R., \"Untangling Computer-Aided Diagnostic System for Screening Diabetic Retinopathy Based on Deep Learning Techniques,\" Sensors, vol. 22, no. 5, p. 1803, 2022.",
+    "style": "List Paragraph"
+  },
+  {
+    "index": 1153,
+    "text": " Han, B., Han, X., Zhang, H., Li, J., and Cao, X., \"Fighting Fake News: Two Stream Network for Deepfake Detection via Learnable SRM,\" IEEE Transactions on Biometrics, Behavior, and Identity Science, vol. 3, no. 3, pp. 320–331, 2021, doi: 10.1109/TBIOM.2021.3065735.",
+    "style": "List Paragraph"
+  },
+  {
+    "index": 1154,
+    "text": " He, P., Li, H., Li, B., Wang, H., and Liu, L., \"Exposing Fake Bitrate Videos Using Hybrid Deep-Learning Network From Recompression Error,\" IEEE Transactions on Circuits and Systems for Video Technology, vol. 30, no. 11, pp. 4034–4049, 2020, doi: 10.1109/TCSVT.2019.2951630.",
+    "style": "List Paragraph"
+  },
+  {
+    "index": 1155,
+    "text": "Jain, A. K., Ross, A., and Prabhakar, S., \"An Introduction to Biometric Recognition,\"",
+    "style": "List Paragraph"
+  },
+  {
+    "index": 1156,
+    "text": "",
+    "style": "List Paragraph"
+  },
+  {
+    "index": 1157,
+    "text": "IEEE Transactions on Circuits and Systems for Video Technology, vol. 14, no. 1, pp. 4–20, 2004, doi: 10.1109/TCSVT.2003.818349.",
+    "style": "Normal"
+  },
+  {
+    "index": 1158,
+    "text": " Korus, P., and Huang, J., \"Multi-Scale Fusion for Improved Localization of Malicious Tampering in Digital Images,\" IEEE Transactions on Image Processing, vol. 25, no. 3, pp. 1312–1326, 2016, doi: 10.1109/TIP.2016.2518870.",
+    "style": "List Paragraph"
+  },
+  {
+    "index": 1159,
+    "text": "Li, X., et al., \"Unsupervised Domain Adaptation for Face Anti-Spoofing,\" IEEE Transactions on Biometrics, Behavior, and Identity Science, 202X.",
+    "style": "List Paragraph"
+  },
+  {
+    "index": 1160,
+    "text": "Qiao, T., Shi, R., Luo, X., Xu, M., Zheng, N., and Wu, Y., \"Statistical Model-Based Detector via Texture Weight Map: Application in Re-Sampling Authentication,\" IEEE Transactions on Multimedia, vol. 21, no. 5, pp. 1077–1092, 2019, doi: 10.1109/TMM.2018.2872863.",
+    "style": "List Paragraph"
+  },
+  {
+    "index": 1161,
+    "text": "Rana, M. S., Nobi, M. N., Murali, B., and Sung, A. H., \"Deepfake Detection: A Systematic Literature Review,\" IEEE Access, vol. 10, pp. 25494–25513, 2022, doi: 10.1109/ACCESS.2022.3154404.",
+    "style": "List Paragraph"
+  },
+  {
+    "index": 1162,
+    "text": "VijayaKumari, E. N., Swetha, K., Kumar, A., and Tulasi, R., \"Automatic Diagnosis of Congenital Conditions in Pediatric Age Using Pupillometry with Machine Learning,\" in 2023 4th International Conference on Smart Electronics and Communication (ICOSEC), pp. 808–812, IEEE, 2023.",
+    "style": "List Paragraph"
+  },
+  {
+    "index": 1163,
+    "text": "Yang, C.-Z., Ma, J., Wang, S., and Liew, A. W.-C., \"Preventing DeepFake Attacks on Speaker Authentication by Dynamic Lip Movement Analysis,\" IEEE Transactions on Information Forensics and Security, vol. 16, pp. 1841–1854, 2021, doi: 10.1109/TIFS.2020.3045937.",
+    "style": "List Paragraph"
+  },
+  {
+    "index": 1164,
+    "text": "Zhang, Q., Li, H., Sun, Z., and Tan, T., \"Deep Feature Fusion for Iris and Periocular Biometrics on Mobile Devices,\" IEEE Transactions on Information Forensics and Security, vol. 13, no. 11, pp. 2897–2912, 2018, doi: 10.1109/TIFS.2018.2833033.",
+    "style": "List Paragraph"
+  },
+  {
+    "index": 1165,
+    "text": "Zhang, Z., Wang, H., Chen, L., Cao, C., Liu, T., Ren, R., ... & Cheng, J., \"Noninvasive and Affordable Type 2 Diabetes Screening by Deep Learning-Based",
+    "style": "List Paragraph"
+  },
+  {
+    "index": 1166,
+    "text": "",
+    "style": "List Paragraph"
+  },
+  {
+    "index": 1167,
+    "text": "Risk Assessment and Detection Using Ophthalmic Images Inspired by Traditional Chinese Medicine,\" Med-X, vol. 1, no. 1, p. 2, 2023.",
+    "style": "Body Text"
+  }
+]
